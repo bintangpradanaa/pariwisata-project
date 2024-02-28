@@ -803,7 +803,7 @@ st.write('''<p style="font-size:15px; text-align:justify;">
         Indonesia, sebagai negara kepulauan yang kaya akan keindahan alam dan keanekaragaman budaya, memiliki banyak potensi pariwisata 
         yang bisa dinikmati oleh wisatawan lokal maupun mancanegara. Saat ini Indonesia memiliki 10.690 objek daya tarik wisata 
         (DTW) yang tersebar di seluruh wilayah Indonesia. <span style ="font-weight:bold;">Dalam upaya untuk mengembangkan potensi pariwisata tersebut, 
-        pemerintah telah menetapkan sejumlah wilayah yang menjadi fokus pembangunan, seperti Daerah Pariwisata Super Prioritas (DPSP), Daerah Pariwisata 
+        pemerintah telah menetapkan sejumlah wilayah yang menjadi fokus pembangunan, seperti Destinasi Pariwisata Super Prioritas (DPSP), Destinasi Pariwisata 
         Nasional (DPN), Kawasan Pengembangan Pariwisata Nasional (KPPN), dan Kawasan Strategis Pariwisata Nasional (KSPN).</span>\
              
         <p style="font-size:15px; text-align:justify;">
