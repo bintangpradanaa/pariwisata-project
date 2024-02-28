@@ -809,7 +809,7 @@ st.write('''<p style="font-size:15px; text-align:justify;">
         <p style="font-size:15px; text-align:justify;">
         Saat ini, hanya terdapat 5 DPSP di Indonesia, yaitu Borobudur di Jawa Tengah, Mandalika di Nusa Tenggara Barat, Likupang di Sulawesi 
         Utara, Danau Toba di Sumatera Utara, dan Labuan Bajo di Nusa Tenggara Timur. Provinsi Jawa Tengah menjadi provinsi dengan jumlah objek daya tarik wisata
-        terbanyak mencapai 1.087, diikuti oleh Jawa Timur dengan 935 objek daya tarik wisata. Hal ini menunjukkan bahwa pulau Jawa memang sepantasnya menjadi
+        terbanyak mencapai 968, diikuti oleh Jawa Timur dengan 845 objek daya tarik wisata. Hal ini menunjukkan bahwa pulau Jawa memang sepantasnya menjadi
         pusat utama dari berbagai daya tarik wisata di Indonesia. Sehingga banyak sekali wisatawan nusantara yang berwisata di pulau Jawa. ''', unsafe_allow_html=True)
 st.info('''
         _Untuk mendukung pertumbuhan pariwisata yang berkelanjutan, diperlukan infrastruktur pendukung yang memadai, seperti akomodasi, transportasi, dan sarana 
