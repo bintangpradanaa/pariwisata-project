@@ -190,7 +190,7 @@ with pariwisata_eco:
     devisa_bar = alt.Chart(devisa[devisa['tahun'] >= 2017]).mark_bar().encode(
     alt.X('tahun:N', title='Tahun', axis=alt.Axis(labelAngle=0)),
     alt.Y('jumlah_devisa_pariwisata_milyar_usd:Q', 
-          title='Devisa Pariwisata (Milyar USD)',
+          title='Devisa Pariwisata (Miliar USD)',
           scale=alt.Scale(padding=20, domain=[0, 18]), 
           axis=alt.Axis(labels=True)),
     color=alt.value('#E95C1D'), 
@@ -218,12 +218,12 @@ with isi_eco:
                     
     target_2023_eco_col, target_2024_eco_col = st.columns(2)
     with target_2023_eco_col:
-        st.metric('Target Minimum Devisa Pariwisata 2023', f'{target_minimum_devisa_2023}M USD')
+        st.metric('Target Minimum Devisa Pariwisata 2023', f'{target_minimum_devisa_2023}B USD')
         capaian_devisa_2023_text = f'<span style="font-size: 20px; font-weight: bold;">{capaian_devisa_2023_percent:.2f}%</span>'
         capaian_devisa_2023_color = "green" if capaian_devisa_2023_percent > 100 else "red"
         st.write(f'Capaian: <span style="color: {capaian_devisa_2023_color};">{capaian_devisa_2023_text}</span>', unsafe_allow_html=True)
     with target_2024_eco_col:
-        st.metric('Target Minimum Devisa Pariwisata 2024', f'{target_devisa_2024}M USD')
+        st.metric('Target Minimum Devisa Pariwisata 2024', f'{target_devisa_2024}B USD')
         capaian_devisa_2024_text = f'<span style="font-size: 20px; font-weight: bold;">{capaian_devisa_2024_percent:.2f}%</span>'
         capaian_devisa_2024_color = "green" if capaian_devisa_2024_percent > 100 else "red"
         st.write(f'Capaian: <span style="color: {capaian_devisa_2024_color};">{capaian_devisa_2024_text}</span>', unsafe_allow_html=True)
