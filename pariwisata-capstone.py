@@ -204,17 +204,12 @@ with isi_eco:
     target_maksimum_devisa_2023 = 5.95
     target_devisa_2024 = 7.38
     capaian_devisa_2023 = devisa.loc[devisa['tahun'] == curr_year_devisa, 'jumlah_devisa_pariwisata_milyar_usd'].values[0]
-        
-    if 2024 in devisa['tahun'].values:
-        capaian_devisa_2024 = devisa.loc[devisa['tahun'] == 2024, 'jumlah_devisa_pariwisata_milyar_usd'].values[0]
-    else:
-        capaian_devisa_2024 = 0
+    capaian_devisa_2024 = 'No Data'
         
     if capaian_devisa_2023 > target_maksimum_devisa_2023:
         capaian_devisa_2023_percent = 100*  (capaian_devisa_2023 / target_maksimum_devisa_2023) 
     else:
         capaian_devisa_2023_percent = 100 * (capaian_devisa_2023 / target_minimum_devisa_2023)
-    capaian_devisa_2024_percent = 100 * (capaian_devisa_2024 / target_devisa_2024) 
                     
     target_2023_eco_col, target_2024_eco_col = st.columns(2)
     with target_2023_eco_col:
@@ -224,9 +219,8 @@ with isi_eco:
         st.write(f'Capaian: <span style="color: {capaian_devisa_2023_color};">{capaian_devisa_2023_text}</span>', unsafe_allow_html=True)
     with target_2024_eco_col:
         st.metric('Target Minimum Devisa Pariwisata 2024', f'{target_devisa_2024}B USD')
-        capaian_devisa_2024_text = f'<span style="font-size: 20px; font-weight: bold;">{capaian_devisa_2024_percent:.2f}%</span>'
-        capaian_devisa_2024_color = "green" if capaian_devisa_2024_percent > 100 else "red"
-        st.write(f'Capaian: <span style="color: {capaian_devisa_2024_color};">{capaian_devisa_2024_text}</span>', unsafe_allow_html=True)
+        capaian_devisa_2024_color = "green" if capaian_devisa_2024 != 'No Data' else "red"
+        st.write(f'Capaian: <span style="color: {capaian_devisa_2024_color};">{capaian_devisa_2024}</span>', unsafe_allow_html=True)
     
     st.write('''<p style = "font-size:15px; text-align:justify;">
             Kementerian Pariwisata dan Ekonomi Kreatif (Kemenparekraf) telah menetapkan target devisa pariwisata tahun 2023 sebesar 
@@ -270,12 +264,8 @@ with isi_wisman_pertahun:
     target_wisman_2023 = 8500000
     target_wisman_2024 = 14.30
     capaian_wisman_2023 = kunjungan_wisman_pertahun.loc[kunjungan_wisman_pertahun['tahun'] == curr_year_wisman, 'jumlah_kunjungan_wisman'].values[0]
-    if 2024 in kunjungan_wisman_pertahun['tahun'].values:
-        capaian_wisman_2024 = kunjungan_wisman_pertahun.loc[kunjungan_wisman_pertahun['tahun'] == 2024, 'jumlah_kunjungan_wisman'].values[0]
-    else:
-        capaian_wisman_2024 = 0
+    capaian_wisman_2024 = 'No Data'
     capaian_wisman_2023_percent = 100 * (capaian_wisman_2023 / target_wisman_2023)
-    capaian_wisman_2024_percent = 100 * (capaian_wisman_2024 / target_wisman_2024)
     
     target_2023_wisman_col, target_2024_wisman_col = st.columns(2)
     with target_2023_wisman_col:
@@ -286,9 +276,8 @@ with isi_wisman_pertahun:
 
     with target_2024_wisman_col:
         st.metric('Target Minimum Kunjungan Wisman 2024', f'{target_wisman_2024} M')
-        capaian_wisman_2024_text = f'<span style="font-size: 20px; font-weight: bold;">{capaian_wisman_2024_percent:.2f}%</span>'
-        capaian_wisman_2024_color = "green" if capaian_wisman_2024_percent > 100 else "red"
-        st.write(f'Capaian: <span style="color: {capaian_wisman_2024_color};">{capaian_wisman_2024_text}</span>', unsafe_allow_html=True)
+        capaian_wisman_2024_color = "green" if capaian_wisman_2024 != 'No Data' else "red"
+        st.write(f'Capaian: <span style="color: {capaian_wisman_2024_color};">{capaian_wisman_2024}</span>', unsafe_allow_html=True)
         
     st.write('''<p style= "font-size:15px; text-align:justify;">
             Walaupun masih berada dalam fase pemulihan pasca-pandemi, pencapaian ini menandakan kemajuan yang luar biasa. Dengan mencapai 
@@ -355,7 +344,7 @@ with wisman_pintu_masuk:
 st.markdown('''<p style="font-size:15px; text-align:justify;">
             <a href="#profile-kunjungan-wisatawan-mancanegara" style="text-decoration: none;">Grafik 3</a> diatas menggambarkan tren jumlah kunjungan 
             wisatawan per negara ke Indonesia selama beberapa tahun terakhir. Data menunjukkan bahwa <span style="font-size:15px; font-weight:bold">Malaysia 
-            secara konsisten menjadi negara dengan kunjungan terbanyak</span>, mencapai puncaknya pada tahun 2019 dengan 2,9 juta pengunjung. Selain Malaysia, 
+            secara konsisten menjadi negara dengan asal wisman terbanyak</span>, mencapai puncaknya pada tahun 2019 dengan 2,9 juta pengunjung. Selain Malaysia, 
             terdapat juga kontribusi yang signifikan dari negara-negara lain seperti Australia, Timor Leste, China, Singapura, dan negara-negara Asia lainnya. 
             Selama masa pandemi tahun 2020-2021, terlihat bahwa kunjungan dari Timor Leste menjadi yang paling tinggi, meskipun secara kuantitas juga mengalami 
             penurunan. Hal ini karena adanya pembatasan perjalanan di berbagai pintu masuk.\
@@ -440,13 +429,8 @@ with isi_wisnus_pertahun:
     target_wisnus_2023 = 1200000000
     target_wisnus_2024 = 1250000000
     capaian_wisnus_2023 = kunjungan_wisnus_pertahun.loc[kunjungan_wisnus_pertahun['tahun'] == curr_year_wisnus, 'jumlah_kunjungan_wisnus'].values[0]
-    if 2024 in kunjungan_wisnus_pertahun['tahun'].values:
-        capaian_wisnus_2024 = kunjungan_wisnus_pertahun.loc[kunjungan_wisnus_pertahun['tahun'] == 2024, 'jumlah_kunjungan_wisnus'].values[0]
-    else:
-        capaian_wisnus_2024 = 0
-
+    capaian_wisnus_2024 = 'No Data'
     capaian_wisnus_2023_percent = 100 * (capaian_wisnus_2023 / target_wisnus_2023)
-    capaian_wisnus_2024_percent = 100 * (capaian_wisnus_2024 / target_wisnus_2024)
 
     target_2023_wisnus_col, target_2024_wisnus_col = st.columns(2)
     with target_2023_wisnus_col:
@@ -457,9 +441,8 @@ with isi_wisnus_pertahun:
 
     with target_2024_wisnus_col:
         st.metric('Target minimum Kunjungan Wisnus 2024',format_big_number(target_wisnus_2024))
-        capaian_wisnus_2024_text = f'<span style="font-size: 20px; font-weight: bold;">{capaian_wisnus_2024_percent:.2f}%</span>'
-        capaian_wisnus_2024_color = "green" if capaian_wisnus_2024_percent > 100 else "red"
-        st.write(f'Capaian: <span style="color: {capaian_wisnus_2024_color};">{capaian_wisnus_2024_text}</span>', unsafe_allow_html=True)
+        capaian_wisnus_2024_color = "green" if capaian_wisnus_2024 != 'No Data' else "red"
+        st.write(f'Capaian: <span style="color: {capaian_wisnus_2024_color};">{capaian_wisnus_2024}</span>', unsafe_allow_html=True)
     
     st.markdown('''<p style="font-size:15px; text-align:justify;">
             Pada tahun 2023, Indonesia menetapkan target kunjungan wisnus sebanyak 1.2 miliar perjalanan, namun capaiannya hanya 
@@ -801,7 +784,7 @@ st_map = st_folium(map, width=700, height=480, use_container_width=True)
 
 st.write('''<p style="font-size:15px; text-align:justify;">
         Indonesia, sebagai negara kepulauan yang kaya akan keindahan alam dan keanekaragaman budaya, memiliki banyak potensi pariwisata 
-        yang bisa dinikmati oleh wisatawan lokal maupun mancanegara. Saat ini Indonesia memiliki 10.690 objek daya tarik wisata 
+        yang bisa dinikmati oleh wisatawan lokal maupun mancanegara. Saat ini Indonesia memiliki 8494 objek daya tarik wisata 
         (DTW) yang tersebar di seluruh wilayah Indonesia. <span style ="font-weight:bold;">Dalam upaya untuk mengembangkan potensi pariwisata tersebut, 
         pemerintah telah menetapkan sejumlah wilayah yang menjadi fokus pembangunan, seperti Destinasi Pariwisata Super Prioritas (DPSP), Destinasi Pariwisata 
         Nasional (DPN), Kawasan Pengembangan Pariwisata Nasional (KPPN), dan Kawasan Strategis Pariwisata Nasional (KSPN).</span>\
