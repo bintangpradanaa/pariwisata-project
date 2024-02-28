@@ -130,11 +130,12 @@ def format_big_number(num):
         return f"{num:.2f}"
 
 st.markdown('''<div style="font-size: 17px; text-align: center; margin-top: 50px; margin-bottom: 40px; margin-right:35px; margin-left:35px;">
-            Indonesia, dengan keindahan alamnya yang memukau dan kekayaan budayanya yang melimpah, menarik perhatian dunia sebagai negara dengan destinasi 
-            pariwisata yang berkembang pesat. Namun, di balik kemajuan ini, terdapat berbagai tantangan dan peluang yang perlu diperhatikan secara seksama. 
-            Pariwisata tidak hanya sekadar menjadi tujuan liburan yang menarik, tetapi juga berperan sebagai salah satu sektor penting dalam pertumbuhan ekonomi 
-            negara. Sektor ini juga memberikan kontribusi yang signifikan terhadap pendapatan masyarakat lokal. Oleh karena itu, penting untuk memantau tren, 
-            mengidentifikasi tantangan, dan menggali potensi masa depan sektor pariwisata Indonesia.</div>''', unsafe_allow_html=True)
+           Indonesia memiliki keindahan alam yang memukau dan kekayaan budayanya yang melimpah, menjadikannya sebagai destinasi pariwisata yang 
+           menarik di mata dunia. Meski demikian, di balik daya tarik yang dimilikinya, terdapat tantangan dan peluang yang perlu diperhatikan dengan seksama.
+           Pariwisata memegang peranan penting dalam mendorong pertumbuhan ekonomi negara, termasuk potensi peningkatan pendapatan dan pengembangan 
+           infrastruktur yang lebih lanjut. Selain itu, sektor pariwisata juga memberikan kesempatan untuk investasi dan pengembangan ekonomi lokal 
+           yang lebih luas. Oleh karena itu, penting untuk memantau tren, mengidentifikasi tantangan, dan menggali potensi masa depan sektor pariwisata 
+           Indonesia. </div>''', unsafe_allow_html=True)
 # Highlight
 st.markdown('---')
 st.markdown("<p style='color: gray; font-style: italic;'>Compared to Last Year</p>", unsafe_allow_html=True)
