@@ -816,7 +816,7 @@ st.info('''
         penunjang lainnya. Ini bukan hanya di wilayah Pulau Jawa, tetapi juga untuk daerah-daerah lain yang memiliki potensi pariwisata yang besar. 
         Dengan meningkatkan infrastruktur ini, pengalaman wisatawan yang berkunjung ke berbagai destinasi di seluruh Indonesia dapat ditingkatkan._
         
-        _Selain itu, penting juga untuk mengembangkan SDM pariwisata yang berkualitas dan meningkatan digitalisasi serta promosi pariwisata yang agresif 
+        _Selain itu, penting juga untuk mengembangkan SDM pariwisata yang berkualitas dan meningkatan digitalisasi serta promosi pariwisata yang agresif, 
         agar potensi pariwisata di Indonesia dapat dioptimalkan sepenuhnya. Dengan memanfaatkan potensi ini secara maksimal, sektor pariwisata dapat 
         memberikan kontribusi yang lebih besar terhadap perekonomian nasional._''')
 
