@@ -31,7 +31,7 @@ hotel_akomodasi_kamar = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2P
 asean_wisatawan = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vTJ5wWR7Nn2nfMFJ4bnQLRABIMJGGokt5Xnpu7P8_0e15SXlTgeanW1_aZ32oj0FlONJRho4sPK_B5w/pub?gid=997253045&single=true&output=csv')
 status_pariwisata = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vSnD_dRmw-m1uSpBk5H4mYjOPWIcemuRXqAb151KCUNEX342W7rjvUR5sZuXOAjcm1MdL10kZyh8cSi/pub?gid=1209728406&single=true&output=csv')
 dtw_sisparnas = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQA6KoarZJtOIgFNWZ-YN06htkDWJusN3ZK_1sUC3ml3hBgbZV-tQH8e1eqiRptQLAyCzCzF6THtEFv/pub?gid=417353498&single=true&output=csv')
-jenis_dtw_pariwisata = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vRGbAGJLm-F9TY2TpeoGVMg0ydSKkFLolg_sG2Kr-sTGhAJX8WbSetWxr63CrZuT4XJyl_llvwVLj53/pubhtml?gid=188056455&single=true')
+jenis_dtw_pariwisata = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vRGbAGJLm-F9TY2TpeoGVMg0ydSKkFLolg_sG2Kr-sTGhAJX8WbSetWxr63CrZuT4XJyl_llvwVLj53/pub?gid=188056455&single=true&output=csv')
 
 curr_year_pdb = int(max(kontribusi_pdb['tahun']))
 prev_year_pdb = curr_year_pdb - 1
