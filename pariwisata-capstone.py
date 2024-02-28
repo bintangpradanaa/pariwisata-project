@@ -163,8 +163,8 @@ st.markdown('---')
 
 st.markdown('''<div style="font-size: 16px; text-align: center; margin-top: 30px;">
         Pada tahun 2023, Indonesia mencatat peningkatan yang signifikan dalam sektor pariwisata. Kontribusi pariwisata terhadap Produk Domestik Bruto (PDB) 
-        dan devisa pariwisata meningkat, menunjukkan dampak positifnya terhadap ekonomi negara. Jumlah kunjungan wisatawan mancanegara (wisman) hampir dua 
-        kali lipat meningkat menjadi 11.26 juta. Sementara itu, kenaikan kunjungan wisatawan nusantara (wisnus) tercatat relatif lebih rendah, hanya sebesar 
+        dan devisa pariwisata meningkat, menunjukkan dampak positifnya terhadap ekonomi negara. Jumlah kunjungan wisatawan mancanegara (wisman) meningkat 
+        lebih dari dua kali lipat, menjadi 11.26 juta. Sementara itu, kenaikan kunjungan wisatawan nusantara (wisnus) tercatat relatif lebih rendah, hanya sebesar 
         1.94%. Peningkatan ini mencerminkan daya tarik Indonesia yang kaya akan keindahan alam, kekayaan budaya, dan beragam pengalaman yang ditawarkan kepada 
         para pengunjung.\
         
