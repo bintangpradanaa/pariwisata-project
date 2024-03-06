@@ -313,7 +313,7 @@ with wisman_pernegara:
                             x='jumlah_kunjungan_wisman', 
                             y='negara', 
                             color='negara',
-                            title= f'Grafik 3. Top 5 Jumlah Kunjungan Wisman Tahun {selected_wisman_pernegara}',
+                            title= f'Grafik 3. Top 5 Negara dengan Asal Wisman Terbanyak',
                             labels={'jumlah_kunjungan_wisman': 'Jumlah Kunjungan Wisman', 'negara': 'Negara'})
     fig_bar_negara.update_layout(width=600, height=400)
     fig_bar_negara.update_traces(showlegend=False) 
@@ -482,7 +482,7 @@ with filter_wisnus_tahun:
 with filter_wisnus_provinsi:
     selected_provinces = st.selectbox("Pilih Provinsi:", ['Semua'] + list(wisnus_perprov['provinsi'].unique()),key="selected_provinces_wisnus_tahun")
 
-wisnus_provinsi, _, wisnus_prov_perbulan = st.columns([1, 0.1, 1.9])
+wisnus_provinsi, _, wisnus_prov_perbulan = st.columns([1.2, 0.1, 1.7])
 with wisnus_provinsi:
     if selected_provinces == 'Semua':
         filtered_data = wisnus_perprov[wisnus_perprov['tahun'] == selected_year]
@@ -495,7 +495,7 @@ with wisnus_provinsi:
                                 x='jumlah_kunjungan_wisnus',
                                 y='provinsi',
                                 color='provinsi',
-                                title='Grafik 7. Top 10 Kunjungan Wisatawan Nusantara per Provinsi',
+                                title='Grafik 7. Top 10 Provinsi dengan Kunjungan Wisnus Terbanyak',
                                 labels={'jumlah_kunjungan_wisnus': 'Jumlah Kunjungan Wisnus',
                                         'provinsi': 'Provinsi'})
     fig_bar_wisnus_prov.update_layout(width=800, height=400, showlegend=False)
@@ -597,7 +597,7 @@ with tpk_hotel_pertahun_col:
     fig_line_hotel_pertahun = px.line(avg_tpk_hotel, 
                                         x='tahun', 
                                         y=['persentase_tpk_hotel_bintang', 'persentase_tpk_hotel_nonbintang'],
-                                        title = 'Grafik 9. Tingkat Penghunian Kamar Hotel Bintang dan Non Bintang',
+                                        title = 'Grafik 9. Tren Tingkat Penghunian Kamar Hotel Bintang dan Non Bintang',
                                         labels={'tahun': 'Tahun', 'value': 'Persentase TPK Hotel'},
                                         color_discrete_map={'persentase_tpk_hotel_bintang': '#1D5CF9 ', 'persentase_tpk_hotel_nonbintang': '#EE6A03'})
     fig_line_hotel_pertahun.update_layout(width=800, height=480, yaxis=dict(dtick=5, range=[0, 60]))
@@ -625,7 +625,7 @@ with tpk_hotel_perprov_col:
     tpk_bar_perprov = px.bar(top5_tpk_prov, 
                             x='provinsi', 
                             y=top5_tpk_prov.columns[1],
-                            title=f'Grafik 10. Top 5 TPK {sort_by} pada Tahun {select_tpk_prov_most}',
+                            title=f'Grafik 10. Top 5 Provinsi dengan TPK {sort_by} Tertinggi pada Tahun {select_tpk_prov_most}',
                             labels={'persentase_tpk_hotel_bintang': 'Persentase TPK Hotel', 'persentase_tpk_hotel_nonbintang': 'Persentase TPK Hotel', 'provinsi': 'Provinsi'},
                             color='provinsi')
     tpk_bar_perprov.update_layout(width=800, height=460, yaxis=dict(dtick=4, range=[20, 80]))
@@ -643,7 +643,7 @@ with hotel_col:
                 x='jumlah_hotel',
                 y='provinsi',
                 color='provinsi',
-                title='Grafik 11. Top 5 Jumlah Hotel dan Akomodasi Lainnya',
+                title='Grafik 11. Top 5 Jumlah Hotel dan Akomodasi Terbanyak per Provinsi',
                 labels={'jumlah_hotel': 'Jumlah Hotel dan Akomodasi Lainnya', 'provinsi': 'Provinsi'})
     fig_bar_hotel.update_layout(width=800, height=460)
     st.plotly_chart(fig_bar_hotel, use_container_width=True)
@@ -780,7 +780,7 @@ choropleth.geojson.add_child(
 )
 # title map
 st.write('')
-st.write('<h4 style="text-align: center;">Peta Sebaran Jenis dan Daya Tarik Wisata Indonesia</h4>', unsafe_allow_html=True)
+st.write('<h4 style="text-align: center;">Peta Sebaran Jenis dan Objek Daya Tarik Wisata Indonesia</h4>', unsafe_allow_html=True)
 # show the map
 st_map = st_folium(map, width=700, height=480, use_container_width=True)
 
