@@ -130,12 +130,11 @@ def format_big_number(num):
         return f"{num:.2f}"
 
 st.markdown('''<div style="font-size: 17px; text-align: center; margin-top: 50px; margin-bottom: 40px; margin-right:35px; margin-left:35px;">
-           Indonesia memiliki keindahan alam yang memukau dan kekayaan budayanya yang melimpah, menjadikannya sebagai destinasi pariwisata yang 
-           menarik di mata dunia. Meski demikian, di balik daya tarik yang dimilikinya, terdapat tantangan dan peluang yang perlu diperhatikan dengan seksama.
-           Pariwisata memegang peranan penting dalam mendorong pertumbuhan ekonomi negara, termasuk potensi peningkatan pendapatan dan pengembangan 
-           infrastruktur yang lebih lanjut. Selain itu, sektor pariwisata juga memberikan kesempatan untuk investasi dan pengembangan ekonomi lokal 
-           yang lebih luas. Oleh karena itu, penting untuk memantau tren, mengidentifikasi tantangan, dan menggali potensi masa depan sektor pariwisata 
-           Indonesia. </div>''', unsafe_allow_html=True)
+           Indonesia memiliki keindahan alam yang memukau dan kekayaan budaya yang melimpah, menjadikannya destinasi pariwisata yang menarik di mata dunia. 
+           Namun, terdapat tantangan dan potensi yang perlu diperhatikan dengan cermat. Dengan ini, perlunya memahami bagaimana kondisi sektor pariwisata Indonesia
+           dengan melihat kontribusinya terhadap ekonomi, jumlah kunjungan wisatawan, tingkat hunian hotel, perbandingan dengan negara-negara tetangga di ASEAN, 
+           serta potensi pariwisata Indonesia. Dengan pemahaman yang mendalam terhadap dinamika industri pariwisata, diharapkan kita dapat memiliki pandangan yang 
+           lebih komprehensif mengenai kondisi dan prospek masa depan pariwisata Indonesia. </div>''', unsafe_allow_html=True)
 # Highlight
 st.markdown('---')
 st.markdown("<p style='color: gray; font-style: italic;'>Compared to Last Year</p>", unsafe_allow_html=True)
@@ -238,9 +237,9 @@ st.write('''<p style = "font-size:15px; text-align:justify;">
         hanya mencapai 520 juta USD. Meskipun demikian, seiring berjalannya waktu, sektor pariwisata mulai perlahan naik dan menunjukkan 
         tanda-tanda pemulihan. </p>''', unsafe_allow_html=True)
 st.info('''
-        _Setelah tahun 2023, sektor pariwisata Indonesia diharapkan terus menunjukkan pertumbuhan positif, dengan asumsi situasi 
+        _**Setelah tahun 2023, sektor pariwisata Indonesia diharapkan terus menunjukkan pertumbuhan positif, dengan asumsi situasi 
         global tetap stabil dan minimnya faktor-faktor yang mempengaruhi pariwisata, seperti pembatasan interaksi lintas negara atau
-        kebijakan yang merugikan industri pariwisata. Selain itu, pemerintah juga perlu gencar meningkatkan daya tarik pariwisata, 
+        kebijakan yang merugikan industri pariwisata.** Selain itu, pemerintah juga perlu gencar meningkatkan daya tarik pariwisata, 
         memperbaiki infrastruktur pariwisata, dan menyajikan pengalaman wisata yang lebih menarik._''')
 
 
@@ -297,7 +296,7 @@ st.write('''<p style = "font-size:15px; text-align:justify;">
 st.info('''
         _Pembatasan perjalanan, penutupan tempat wisata, dan ketidakpastian yang meluas adalah beberapa faktor utama yang menyebabkan penurunan kunjungan 
         wisman di Indonesia. Namun, seiring dimulainya relaksasi kebijakan dan pemulihan ekonomi global, terjadi peningkatan bertahap dalam jumlah kunjungan 
-        wisman. Dari sini, kita dapat melihat bahwa kunjungan wisman dan kesehatan ekonomi sektor pariwisata Indonesia saling terkait erat._''')
+        wisman. **Dari sini, kita dapat melihat bahwa kunjungan wisman dan kesehatan ekonomi sektor pariwisata Indonesia saling terkait erat.**_''')
 
 # Subeheader: Wisman pernegara
 st.write('')
@@ -358,15 +357,15 @@ st.markdown('''<p style="font-size:15px; text-align:justify;">
             Malaysia dan Timor Leste, masih tetap melakukan kunjungan ke Indonesia melalui jalur darat.</p></p>''', unsafe_allow_html=True)
 st.info('''
             _Dari data tersebut, Indonesia perlu mengambil strategi untuk meningkatkan kunjungan wisman. Beberapa strategi 
-            yang dapat diterapkan adalah Border Tourism, yaitu melalui kerjasama dengan negara-negara tetangga untuk mengembangkan destinasi 
+            yang dapat diterapkan adalah **Border Tourism**, yaitu melalui kerjasama dengan negara-negara tetangga untuk mengembangkan destinasi 
             pariwisata di wilayah perbatasan. Ini akan memungkinkan aksesibilitas yang lebih baik ke destinasi tersebut dan merangsang 
             pertumbuhan kunjungan wisman dari negara-negara tetangga._
             
             _Selain itu, investasi dalam infrastruktur jalur udara, seperti 
-            pembangunan Low Cost Carrier Terminal (LCCT), dapat meningkatkan aksesibilitas dan daya tarik bagi wisatawan, terutama 
-            dalam hal biaya transportasi. Strategi pemasaran juga penting, seperti menawarkan paket wisata dengan harga diskon atau penawaran istimewa (Hot Deals) 
-            untuk event-event atau periode tertentu. Untuk memperluas daya tarik, pemerintah juga dapat memperbanyak event seperti konser, festival budaya, dan acara 
-            olahraga internasional di Indonesia yang dapat menarik perhatian lebih banyak wisatawan mancanegara._''')
+            **pembangunan Low Cost Carrier Terminal (LCCT)**, dapat meningkatkan aksesibilitas dan daya tarik bagi wisatawan, terutama 
+            dalam hal biaya transportasi. Strategi pemasaran juga penting, seperti **menawarkan paket wisata dengan harga diskon atau penawaran istimewa (Hot Deals)** 
+            untuk event-event atau periode tertentu. Untuk memperluas daya tarik, pemerintah juga dapat **memperbanyak event seperti konser, festival budaya, dan acara 
+            olahraga internasional di Indonesia** yang dapat menarik perhatian lebih banyak wisatawan mancanegara._''')
 
 # Subheader: Wisman perprovinsi
 st.write('')
@@ -386,9 +385,8 @@ with isi_wisman_most:
                 dan memperkuat posisi Bali sebagai destinasi unggulan, penting untuk mengimplementasikan strategi yang efektif.</p></p>''', unsafe_allow_html=True)
     
     st.info(''' 
-            _Keberhasilan ini menunjukkan bahwa Bali tetap menjadi magnet bagi wisatawan. Kesinambungan dominasi Bali sebagai destinasi 
-            pariwisata terkemuka, merupakan bukti akan daya tarik yang kuat dan potensinya untuk menjadi pendorong 
-            utama dalam pemulihan sektor pariwisata di Indonesia._
+            _**Dominasi Bali ini menunjukkan bahwa Bali tetap menjadi magnet bagi wisatawan merupakan bukti akan daya tarik yang kuat dan potensinya 
+            untuk menjadi pendorong utama dalam pemulihan sektor pariwisata di Indonesia.**_
             
             _**Dengan target 7 juta kunjungan wisman di tahun 2024**, diharapkan 
             Bali dapat mencapainya dengan baik. Stretegi yang dapat dilakukan mencakup peningkatan aksesibilitas, peningkatan atraksi wisata, 
@@ -655,16 +653,19 @@ st.write('''<p style="font-size:15px; text-align:justify;">
         dibandingkan dengan wilayah lainnya.</span> Hal ini kemungkinan dipengaruhi oleh lonjakan kunjungan di daerah tersebut, terutama dengan 
         adanya proyek Ibu Kota Nusantara (IKN) yang menarik minat wisatawan untuk menginap di hotel-hotel Kalimantan Timur. Sementara 
         itu, DKI Jakarta tetap menjadi yang tertinggi untuk hotel non-bintang, menunjukkan dominasi bisnis perhotelan di ibu kota yang 
-        stabil. Menariknya, <span style="font-weight:bold;">DKI Jakarta mencatat tingkat penghunian kamar tertinggi pada tahun 2018, mencapai 
+        stabil.\
+
+        <p style="font-size:15px; text-align:justify;">
+        Menariknya, <span style="font-weight:bold;">DKI Jakarta mencatat tingkat penghunian kamar tertinggi pada tahun 2018, mencapai 
         66.87%, yang merupakan angka tertinggi dalam delapan tahun terakhir.</span> Salah satu faktor pengaruhnya adalah adanya event besar seperti 
         Asian Games dan event-event lain yang mendorong tingkat hunian hotel di provinsi tersebut. Fenomena serupa juga terjadi di Provinsi 
         Sumatera Selatan, yang mendongkrak angka hunian kamar hotel menjadi 59.3%.\
-            
+        
         <p style="font-size:15px; text-align:justify;"> 
         <span style="font-weight:bold;">Bali menempati posisi terbanyak dalam hal jumlah hotel dan akomodasi lainnya di Indonesia.</span> Meskipun demikian, 
         penurunan juga tetap terjadi di tahun 2021 yang mencerminkan dampak pandemi terhadap jumlah hotel dan akomodasi yang tersedia. Di sisi lain, 
         provinsi-provinsi di Pulau Jawa secara konsisten berada di lima besar. Hal ini menyoroti adanya hubungan yang erat antara infrastruktur akomodasi 
-        dengan jumlah kunjungan wisatawan, karena ketersediaan akomodasi yang memadai sangat penting bagi para wisatawan. </p></p>''', unsafe_allow_html=True)
+        dengan jumlah kunjungan wisatawan, karena ketersediaan akomodasi yang memadai sangat penting bagi para wisatawan. </p></p></p>''', unsafe_allow_html=True)
 st.info('''
         _Untuk memperkuat sektor pariwisata di seluruh Indonesia, **perlu adanya investasi lebih lanjut dalam pembangunan infrastruktur hotel 
         dan akomodasi lainnya di luar Pulau Jawa dan Bali.** Hal ini akan membantu meningkatkan ketersediaan fasilitas penginapan yang memadai
@@ -700,8 +701,8 @@ with isi_asean_data_col:
                  
             <p style="font-size:15px; text-align:justify;">
             Sementara itu, Indonesia masih berada jauh di bawah Thailand, Malaysia, dan Singapura, dengan jumlah kunjungan wisatawan asing 
-            yang paling tinggi hanya 16.1 juta per orang pada tahun 2018. Hal ini menandakan bahwa daya tarik pariwisata Indonesia masih
-            kurang di dunia internasional dibandingkan dengan negara-negara ASEAN lainnya. </p></p>''', unsafe_allow_html=True)
+            yang paling tinggi hanya 16.1 juta per orang pada tahun 2018. <span style ="font-weight:bold;">Hal ini menandakan bahwa daya tarik pariwisata Indonesia masih
+            kurang di dunia internasional dibandingkan dengan negara-negara ASEAN lainnya.</span></p></p>''', unsafe_allow_html=True)
     
     st.info('''
             _Salah satu faktor yang menyebabkan Indonesia belum mampu menarik perhatian wisatawan asing secara maksimal adalah 
@@ -793,8 +794,9 @@ st.write('''<p style="font-size:15px; text-align:justify;">
         <p style="font-size:15px; text-align:justify;">
         Saat ini, hanya terdapat 5 DPSP di Indonesia, yaitu Borobudur di Jawa Tengah, Mandalika di Nusa Tenggara Barat, Likupang di Sulawesi 
         Utara, Danau Toba di Sumatera Utara, dan Labuan Bajo di Nusa Tenggara Timur. Provinsi Jawa Tengah menjadi provinsi dengan jumlah objek daya tarik wisata
-        terbanyak mencapai 968, diikuti oleh Jawa Timur dengan 845 objek daya tarik wisata. Hal ini menunjukkan bahwa pulau Jawa memang sepantasnya menjadi
-        pusat utama dari berbagai daya tarik wisata di Indonesia. Sehingga banyak sekali wisatawan nusantara yang berwisata di pulau Jawa. ''', unsafe_allow_html=True)
+        terbanyak mencapai 968, diikuti oleh Jawa Timur dengan 845 objek daya tarik wisata. <span style ="font-weight:bold;">Hal ini menunjukkan bahwa pulau Jawa 
+        memang sepantasnya menjadi pusat utama dari berbagai daya tarik wisata di Indonesia. Apabila hal ini dapat dimanfaatkan dengan baik, potensi ini dapat menarik lebih banyak lagi
+        wisatawan khususnya Wisatawan Mancanegara. </span>''', unsafe_allow_html=True)
 st.info('''
         _Untuk mendukung pertumbuhan pariwisata yang berkelanjutan, diperlukan infrastruktur pendukung yang memadai, seperti akomodasi, transportasi, dan sarana 
         penunjang lainnya. Ini bukan hanya di wilayah Pulau Jawa, tetapi juga untuk daerah-daerah lain yang memiliki potensi pariwisata yang besar. 
