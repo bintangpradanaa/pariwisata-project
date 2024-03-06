@@ -252,7 +252,7 @@ with wisman_pertahun:
     fig_bar_wisman_pertahun = px.bar(kunjungan_wisman_pertahun, 
                                     x='tahun', 
                                     y='jumlah_kunjungan_wisman',
-                                    title='Grafik 2. Jumlah Kunjungan Wisatawan Mancanegara',
+                                    title='Grafik 2. Jumlah Kunjungan Wisman per Tahun',
                                     labels={'tahun': 'Tahun', 'jumlah_kunjungan_wisman': 'Jumlah Kunjungan Wisman'},
                                     color_discrete_sequence=['#8892E1'])
     fig_bar_wisman_pertahun.update_layout(width=800, height=480)
@@ -476,7 +476,7 @@ st.info('''
 st.write('')
 st.subheader('Profile Kunjungan Wisatawan Nusantara')
 
-filter_wisnus_tahun, _,filter_wisnus_provinsi = st.columns([1.1,0.1, 2])
+filter_wisnus_tahun, _,filter_wisnus_provinsi = st.columns([1.2,0.1, 1.7])
 with filter_wisnus_tahun:
     selected_year = st.selectbox("Pilih Tahun:", wisnus_perprov['tahun'].unique(), key="selected_year_wisnus_tahun")
 with filter_wisnus_provinsi:
