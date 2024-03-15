@@ -243,7 +243,7 @@ with isi_eco:
             2,07 - 5,95 miliar USD. Ternyata, devisa yang berhasil dihasilkan jauh melampaui target yang ditetapkan, bahkan mencapai 
             lebih dari dua kali lipat dari yang diharapkan.</p>''', unsafe_allow_html=True)
     st.markdown('''<div style="border: 1px solid; padding: 10px; border-radius: 5px; font-size:14px; text-align:justify; padding:15px; font-style:italic;">
-            Di tahun 2024, Kemenparekraf menetapkan target baru devisa minimum sebesar 7.38 juta USD. Langkah ini mencerminkan optimisme dan 
+            Di tahun 2024, Kemenparekraf menetapkan target baru devisa minimum sebesar 7.38 miliar USD. Langkah ini mencerminkan optimisme dan 
             keyakinan akan potensi pertumbuhan lebih lanjut dalam industri pariwisata Indonesia.</div>''', unsafe_allow_html=True)
     
 st.write('''<p style = "font-size:15px; text-align:justify;">
