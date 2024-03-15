@@ -267,7 +267,7 @@ wisman_head_col, _,  target_wisman_col = st.columns([1.6, 0.1, 1.3])
 with wisman_head_col:
     st.subheader('Tren Kunjungan Wisatawan Mancanegara')
     st.markdown('''<p style = "font-size:15px; text-align:center;font-weight:bold;">
-                Grafik 2. Top 5 Negara Asal Wisman Terbanyak</p>''', unsafe_allow_html=True)
+                Grafik 2. Jumlah Kunjungan Wisman per Tahun </p>''', unsafe_allow_html=True)
     
 with target_wisman_col:
     st.write("")
@@ -339,7 +339,7 @@ with wisman_pernegara:
 
     top5_wisman_negara = filtered_data.groupby('negara')['jumlah_kunjungan_wisman'].sum().nlargest(5).reset_index()
     st.markdown('''<p style = "font-size:15px; text-align:center; top:50px;font-weight:bold;">
-                Grafik 2. Jumlah Kunjungan Wisman per Tahun </p>''', unsafe_allow_html=True)
+                Grafik 3. Top 5 Negara Asal Wisman Terbanyak</p>''', unsafe_allow_html=True)
     fig_bar_negara = px.bar(top5_wisman_negara, 
                             x='jumlah_kunjungan_wisman', 
                             y='negara', 
