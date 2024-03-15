@@ -226,7 +226,7 @@ with pariwisata_eco:
     eco_combo_chart = alt.layer(devisa_bar, pdb_line).resolve_scale(y='independent')
     st.altair_chart(eco_combo_chart, use_container_width=True)
     st.markdown(""" <div style="position: absolute; top: -40px; right: 20px; color: #808080; font-size: 13px;">
-            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparakraf</a>)</div>""", unsafe_allow_html=True)
+            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparekraf</a>)</div>""", unsafe_allow_html=True)
     
 with isi_eco:
     capaian_devisa_2023_col, capaian_devisa_2024_col = st.columns(2)
@@ -864,7 +864,7 @@ st.markdown('<h5 style="text-align: center;">Peta Sebaran Jenis dan Objek Daya T
 # show the map
 st_map = st_folium(map, width=700, height=480, use_container_width=True)
 st.markdown(""" <div style="position: absolute; top: -40px; right: 0; color: #808080; font-size: 13px;">
-            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparakraf</a>)</div>""", unsafe_allow_html=True)
+            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparekraf</a>)</div>""", unsafe_allow_html=True)
     
 
 st.write('''<p style="font-size:15px; text-align:justify;">
