@@ -573,7 +573,7 @@ with wisnus_prov_perbulan:
     grouped_data = filtered_data.groupby('bulan')['jumlah_kunjungan_wisnus'].sum().reset_index()
     
     st.markdown('''<p style = "font-size:15px; text-align:center;font-weight:bold;">
-                Grafik 7. Grafik 8. Tren Jumlah Kunjungan Wisnus per Bulan </p>''', unsafe_allow_html=True)  
+                Grafik 8. Tren Jumlah Kunjungan Wisnus per Bulan </p>''', unsafe_allow_html=True)  
     fig_line_wisnus_prov = px.line(grouped_data,
                                    x='bulan',
                                    y='jumlah_kunjungan_wisnus',
