@@ -1,0 +1,2437 @@
+tahun,bulan,provinsi,nama_pintu_masuk,jenis_pintu_masuk,jumlah_kunjungan_wisman
+2023,Januari,BALI,Ngurah Rai,Udara,329909
+2023,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,115101
+2023,Januari,JAWA TIMUR,Juanda,Udara,10777
+2023,Januari,SUMATERA UTARA,Kualanamu,Udara,14146
+2023,Januari,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,3878
+2023,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2202
+2023,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,803
+2023,Januari,SUMATERA BARAT,Minangkabau,Udara,2878
+2023,Januari,RIAU,Sultan Syarif Kasim II,Udara,1624
+2023,Januari,ACEH,Sultan Iskandar Muda,Udara,1440
+2023,Januari,JAWA TENGAH,Ahmad Yani,Udara,1
+2023,Januari,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Januari,SULAWESI SELATAN,Hasanuddin,Udara,1066
+2023,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2023,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,672
+2023,Januari,KEP. RIAU,Batam,Laut,93781
+2023,Januari,KEP. RIAU,Tanjung Uban,Laut,14957
+2023,Januari,KEP. RIAU,Tanjung Pinang,Laut,4973
+2023,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,5814
+2023,Januari,BALI,Tanjung Benoa,Laut,1876
+2023,Januari,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,103450
+2023,Januari,PAPUA,Jayapura,Darat,132
+2023,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,2514
+2023,Januari,KALIMANTAN BARAT,Entikong,Darat,2508
+2023,Januari,KALIMANTAN BARAT,Aruk,Darat,2542
+2023,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,718
+2023,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,80707
+2023,Februari,BALI,Ngurah Rai,Udara,317005
+2023,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,124803
+2023,Februari,JAWA TIMUR,Juanda,Udara,11882
+2023,Februari,SUMATERA UTARA,Kualanamu,Udara,15072
+2023,Februari,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,4839
+2023,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2355
+2023,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,1848
+2023,Februari,SUMATERA BARAT,Minangkabau,Udara,3590
+2023,Februari,RIAU,Sultan Syarif Kasim II,Udara,1914
+2023,Februari,ACEH,Sultan Iskandar Muda,Udara,2024
+2023,Februari,JAWA TENGAH,Ahmad Yani,Udara,1
+2023,Februari,KALIMANTAN BARAT,Supadio,Udara,1
+2023,Februari,SULAWESI SELATAN,Hasanuddin,Udara,1469
+2023,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1
+2023,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,645
+2023,Februari,KEP. RIAU,Batam,Laut,73090
+2023,Februari,KEP. RIAU,Tanjung Uban,Laut,11265
+2023,Februari,KEP. RIAU,Tanjung Pinang,Laut,2663
+2023,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,4795
+2023,Februari,BALI,Tanjung Benoa,Laut,6505
+2023,Februari,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,92745
+2023,Februari,PAPUA,Jayapura,Darat,86
+2023,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,4212
+2023,Februari,KALIMANTAN BARAT,Entikong,Darat,2725
+2023,Februari,KALIMANTAN BARAT,Aruk,Darat,2503
+2023,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,615
+2023,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,60783
+2023,Maret,BALI,Ngurah Rai,Udara,366956
+2023,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,140859
+2023,Maret,JAWA TIMUR,Juanda,Udara,10606
+2023,Maret,SUMATERA UTARA,Kualanamu,Udara,16106
+2023,Maret,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,5007
+2023,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2099
+2023,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,4793
+2023,Maret,SUMATERA BARAT,Minangkabau,Udara,2765
+2023,Maret,RIAU,Sultan Syarif Kasim II,Udara,1697
+2023,Maret,ACEH,Sultan Iskandar Muda,Udara,1901
+2023,Maret,JAWA TENGAH,Ahmad Yani,Udara,1
+2023,Maret,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Maret,SULAWESI SELATAN,Hasanuddin,Udara,921
+2023,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1
+2023,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,953
+2023,Maret,KEP. RIAU,Batam,Laut,97040
+2023,Maret,KEP. RIAU,Tanjung Uban,Laut,19018
+2023,Maret,KEP. RIAU,Tanjung Pinang,Laut,4043
+2023,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,4835
+2023,Maret,BALI,Tanjung Benoa,Laut,3738
+2023,Maret,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,107507
+2023,Maret,PAPUA,Jayapura,Darat,106
+2023,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,7016
+2023,Maret,KALIMANTAN BARAT,Entikong,Darat,2905
+2023,Maret,KALIMANTAN BARAT,Aruk,Darat,2169
+2023,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,669
+2023,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,65533
+2023,April,BALI,Ngurah Rai,Udara,410281
+2023,April,DKI JAKARTA,Soekarno-Hatta,Udara,99289
+2023,April,JAWA TIMUR,Juanda,Udara,12361
+2023,April,SUMATERA UTARA,Kualanamu,Udara,15497
+2023,April,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,April,DI YOGYAKARTA,Adi Sucipto,Udara,5592
+2023,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2903
+2023,April,SULAWESI UTARA,Sam Ratulangi,Udara,4156
+2023,April,SUMATERA BARAT,Minangkabau,Udara,4100
+2023,April,RIAU,Sultan Syarif Kasim II,Udara,2453
+2023,April,ACEH,Sultan Iskandar Muda,Udara,1349
+2023,April,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,April,KALIMANTAN BARAT,Supadio,Udara,0
+2023,April,SULAWESI SELATAN,Hasanuddin,Udara,1564
+2023,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2023,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,889
+2023,April,KEP. RIAU,Batam,Laut,88776
+2023,April,KEP. RIAU,Tanjung Uban,Laut,18547
+2023,April,KEP. RIAU,Tanjung Pinang,Laut,5324
+2023,April,KEP. RIAU,Tanjung Balai Karimun,Laut,5801
+2023,April,BALI,Tanjung Benoa,Laut,1229
+2023,April,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,115983
+2023,April,PAPUA,Jayapura,Darat,91
+2023,April,NUSA TENGGARA TIMUR,Atambua,Darat,7322
+2023,April,KALIMANTAN BARAT,Entikong,Darat,2929
+2023,April,KALIMANTAN BARAT,Aruk,Darat,3592
+2023,April,KALIMANTAN BARAT,Nanga Badau,Darat,735
+2023,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,55048
+2023,Mei,BALI,Ngurah Rai,Udara,439454
+2023,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,158550
+2023,Mei,JAWA TIMUR,Juanda,Udara,15734
+2023,Mei,SUMATERA UTARA,Kualanamu,Udara,16262
+2023,Mei,JAWA BARAT,Husein Sastranegara,Udara,17
+2023,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,8160
+2023,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,4848
+2023,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,3798
+2023,Mei,SUMATERA BARAT,Minangkabau,Udara,4624
+2023,Mei,RIAU,Sultan Syarif Kasim II,Udara,2293
+2023,Mei,ACEH,Sultan Iskandar Muda,Udara,2350
+2023,Mei,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,Mei,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Mei,SULAWESI SELATAN,Hasanuddin,Udara,1432
+2023,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2023,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1543
+2023,Mei,KEP. RIAU,Batam,Laut,76577
+2023,Mei,KEP. RIAU,Tanjung Uban,Laut,15001
+2023,Mei,KEP. RIAU,Tanjung Pinang,Laut,3391
+2023,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,3590
+2023,Mei,BALI,Tanjung Benoa,Laut,21
+2023,Mei,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,115746
+2023,Mei,PAPUA,Jayapura,Darat,8251
+2023,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,6651
+2023,Mei,KALIMANTAN BARAT,Entikong,Darat,2856
+2023,Mei,KALIMANTAN BARAT,Aruk,Darat,2057
+2023,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,1324
+2023,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,59184
+2023,Juni,BALI,Ngurah Rai,Udara,478127
+2023,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,161114
+2023,Juni,JAWA TIMUR,Juanda,Udara,18025
+2023,Juni,SUMATERA UTARA,Kualanamu,Udara,16527
+2023,Juni,JAWA BARAT,Husein Sastranegara,Udara,24
+2023,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,11188
+2023,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5721
+2023,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,3691
+2023,Juni,SUMATERA BARAT,Minangkabau,Udara,5226
+2023,Juni,RIAU,Sultan Syarif Kasim II,Udara,2447
+2023,Juni,ACEH,Sultan Iskandar Muda,Udara,2157
+2023,Juni,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,Juni,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Juni,SULAWESI SELATAN,Hasanuddin,Udara,1888
+2023,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2023,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1341
+2023,Juni,KEP. RIAU,Batam,Laut,133616
+2023,Juni,KEP. RIAU,Tanjung Uban,Laut,26345
+2023,Juni,KEP. RIAU,Tanjung Pinang,Laut,6086
+2023,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,4734
+2023,Juni,BALI,Tanjung Benoa,Laut,71
+2023,Juni,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,105187
+2023,Juni,PAPUA,Jayapura,Darat,9933
+2023,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,8267
+2023,Juni,KALIMANTAN BARAT,Entikong,Darat,2819
+2023,Juni,KALIMANTAN BARAT,Aruk,Darat,2755
+2023,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,1045
+2023,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,54457
+2023,Juli,BALI,Ngurah Rai,Udara,541272
+2023,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,204000
+2023,Juli,JAWA TIMUR,Juanda,Udara,20303
+2023,Juli,SUMATERA UTARA,Kualanamu,Udara,17478
+2023,Juli,JAWA BARAT,Husein Sastranegara,Udara,3
+2023,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,12444
+2023,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6433
+2023,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,3782
+2023,Juli,SUMATERA BARAT,Minangkabau,Udara,4946
+2023,Juli,RIAU,Sultan Syarif Kasim II,Udara,2111
+2023,Juli,ACEH,Sultan Iskandar Muda,Udara,2582
+2023,Juli,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,Juli,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Juli,SULAWESI SELATAN,Hasanuddin,Udara,1755
+2023,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,11
+2023,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2376
+2023,Juli,KEP. RIAU,Batam,Laut,94373
+2023,Juli,KEP. RIAU,Tanjung Uban,Laut,17619
+2023,Juli,KEP. RIAU,Tanjung Pinang,Laut,4010
+2023,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,4391
+2023,Juli,BALI,Tanjung Benoa,Laut,81
+2023,Juli,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,104632
+2023,Juli,PAPUA,Jayapura,Darat,7723
+2023,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,8198
+2023,Juli,KALIMANTAN BARAT,Entikong,Darat,2639
+2023,Juli,KALIMANTAN BARAT,Aruk,Darat,1832
+2023,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,727
+2023,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,55468
+2023,Agustus,BALI,Ngurah Rai,Udara,522063
+2023,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,218512
+2023,Agustus,JAWA TIMUR,Juanda,Udara,25548
+2023,Agustus,SUMATERA UTARA,Kualanamu,Udara,20843
+2023,Agustus,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,12974
+2023,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6245
+2023,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,5397
+2023,Agustus,SUMATERA BARAT,Minangkabau,Udara,5577
+2023,Agustus,RIAU,Sultan Syarif Kasim II,Udara,2770
+2023,Agustus,ACEH,Sultan Iskandar Muda,Udara,3108
+2023,Agustus,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,Agustus,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,1609
+2023,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,4
+2023,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1796
+2023,Agustus,KEP. RIAU,Batam,Laut,94601
+2023,Agustus,KEP. RIAU,Tanjung Uban,Laut,19237
+2023,Agustus,KEP. RIAU,Tanjung Pinang,Laut,4222
+2023,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,4173
+2023,Agustus,BALI,Tanjung Benoa,Laut,78
+2023,Agustus,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,97888
+2023,Agustus,PAPUA,Jayapura,Darat,8335
+2023,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,11895
+2023,Agustus,KALIMANTAN BARAT,Entikong,Darat,3488
+2023,Agustus,KALIMANTAN BARAT,Aruk,Darat,2653
+2023,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,628
+2023,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,58994
+2023,September,BALI,Ngurah Rai,Udara,508297
+2023,September,DKI JAKARTA,Soekarno-Hatta,Udara,190058
+2023,September,JAWA TIMUR,Juanda,Udara,25593
+2023,September,SUMATERA UTARA,Kualanamu,Udara,15783
+2023,September,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,September,DI YOGYAKARTA,Adi Sucipto,Udara,11855
+2023,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6294
+2023,September,SULAWESI UTARA,Sam Ratulangi,Udara,5922
+2023,September,SUMATERA BARAT,Minangkabau,Udara,5453
+2023,September,RIAU,Sultan Syarif Kasim II,Udara,2166
+2023,September,ACEH,Sultan Iskandar Muda,Udara,2481
+2023,September,JAWA TENGAH,Ahmad Yani,Udara,8
+2023,September,KALIMANTAN BARAT,Supadio,Udara,0
+2023,September,SULAWESI SELATAN,Hasanuddin,Udara,1787
+2023,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2023,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1840
+2023,September,KEP. RIAU,Batam,Laut,101470
+2023,September,KEP. RIAU,Tanjung Uban,Laut,20542
+2023,September,KEP. RIAU,Tanjung Pinang,Laut,4827
+2023,September,KEP. RIAU,Tanjung Balai Karimun,Laut,4345
+2023,September,BALI,Tanjung Benoa,Laut,53
+2023,September,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,81533
+2023,September,PAPUA,Jayapura,Darat,8408
+2023,September,NUSA TENGGARA TIMUR,Atambua,Darat,8942
+2023,September,KALIMANTAN BARAT,Entikong,Darat,2418
+2023,September,KALIMANTAN BARAT,Aruk,Darat,1878
+2023,September,KALIMANTAN BARAT,Nanga Badau,Darat,680
+2023,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,57612
+2023,Oktober,BALI,Ngurah Rai,Udara,458845
+2023,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,181627
+2023,Oktober,JAWA TIMUR,Juanda,Udara,21996
+2023,Oktober,SUMATERA UTARA,Kualanamu,Udara,14161
+2023,Oktober,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,8536
+2023,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5904
+2023,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,4645
+2023,Oktober,SUMATERA BARAT,Minangkabau,Udara,4925
+2023,Oktober,RIAU,Sultan Syarif Kasim II,Udara,2377
+2023,Oktober,ACEH,Sultan Iskandar Muda,Udara,1875
+2023,Oktober,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,Oktober,KALIMANTAN BARAT,Supadio,Udara,0
+2023,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,1175
+2023,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2023,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1518
+2023,Oktober,KEP. RIAU,Batam,Laut,79646
+2023,Oktober,KEP. RIAU,Tanjung Uban,Laut,16838
+2023,Oktober,KEP. RIAU,Tanjung Pinang,Laut,5065
+2023,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,4298
+2023,Oktober,BALI,Tanjung Benoa,Laut,2596
+2023,Oktober,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,77718
+2023,Oktober,PAPUA,Jayapura,Darat,9174
+2023,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,9700
+2023,Oktober,KALIMANTAN BARAT,Entikong,Darat,2274
+2023,Oktober,KALIMANTAN BARAT,Aruk,Darat,1721
+2023,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,674
+2023,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,61231
+2023,November,BALI,Ngurah Rai,Udara,397522
+2023,November,DKI JAKARTA,Soekarno-Hatta,Udara,186695
+2023,November,JAWA TIMUR,Juanda,Udara,22389
+2023,November,SUMATERA UTARA,Kualanamu,Udara,16363
+2023,November,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,November,DI YOGYAKARTA,Adi Sucipto,Udara,9675
+2023,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5278
+2023,November,SULAWESI UTARA,Sam Ratulangi,Udara,4611
+2023,November,SUMATERA BARAT,Minangkabau,Udara,5898
+2023,November,RIAU,Sultan Syarif Kasim II,Udara,2921
+2023,November,ACEH,Sultan Iskandar Muda,Udara,2577
+2023,November,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,November,KALIMANTAN BARAT,Supadio,Udara,0
+2023,November,SULAWESI SELATAN,Hasanuddin,Udara,1194
+2023,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1
+2023,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1585
+2023,November,KEP. RIAU,Batam,Laut,103497
+2023,November,KEP. RIAU,Tanjung Uban,Laut,16544
+2023,November,KEP. RIAU,Tanjung Pinang,Laut,5912
+2023,November,KEP. RIAU,Tanjung Balai Karimun,Laut,4683
+2023,November,BALI,Tanjung Benoa,Laut,5632
+2023,November,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,53990
+2023,November,PAPUA,Jayapura,Darat,3729
+2023,November,NUSA TENGGARA TIMUR,Atambua,Darat,8838
+2023,November,KALIMANTAN BARAT,Entikong,Darat,2364
+2023,November,KALIMANTAN BARAT,Aruk,Darat,1790
+2023,November,KALIMANTAN BARAT,Nanga Badau,Darat,724
+2023,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,66815
+2023,Desember,BALI,Ngurah Rai,Udara,478382
+2023,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,172397
+2023,Desember,JAWA TIMUR,Juanda,Udara,23244
+2023,Desember,SUMATERA UTARA,Kualanamu,Udara,18237
+2023,Desember,JAWA BARAT,Husein Sastranegara,Udara,0
+2023,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,11338
+2023,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,7304
+2023,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,3917
+2023,Desember,SUMATERA BARAT,Minangkabau,Udara,6710
+2023,Desember,RIAU,Sultan Syarif Kasim II,Udara,2964
+2023,Desember,ACEH,Sultan Iskandar Muda,Udara,3461
+2023,Desember,JAWA TENGAH,Ahmad Yani,Udara,0
+2023,Desember,KALIMANTAN BARAT,Supadio,Udara,2
+2023,Desember,SULAWESI SELATAN,Hasanuddin,Udara,1500
+2023,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,6
+2023,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1831
+2023,Desember,KEP. RIAU,Batam,Laut,149218
+2023,Desember,KEP. RIAU,Tanjung Uban,Laut,26205
+2023,Desember,KEP. RIAU,Tanjung Pinang,Laut,7022
+2023,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,6634
+2023,Desember,BALI,Tanjung Benoa,Laut,801
+2023,Desember,JAWA TENGAH,Tanjung Mas,Laut,0
+2023,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,101883
+2023,Desember,PAPUA,Jayapura,Darat,11445
+2023,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,12678
+2023,Desember,KALIMANTAN BARAT,Entikong,Darat,4522
+2023,Desember,KALIMANTAN BARAT,Aruk,Darat,3605
+2023,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,1363
+2023,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,87873
+2022,Januari,BALI,Ngurah Rai,Udara,0
+2022,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,14073
+2022,Januari,JAWA TIMUR,Juanda,Udara,0
+2022,Januari,SUMATERA UTARA,Kualanamu,Udara,0
+2022,Januari,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2022,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2022,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,466
+2022,Januari,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Januari,RIAU,Sultan Syarif Kasim II,Udara,0
+2022,Januari,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Januari,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Januari,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Januari,SULAWESI SELATAN,Hasanuddin,Udara,0
+2022,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,16
+2022,Januari,KEP. RIAU,Batam,Laut,240
+2022,Januari,KEP. RIAU,Tanjung Uban,Laut,88
+2022,Januari,KEP. RIAU,Tanjung Pinang,Laut,0
+2022,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2022,Januari,BALI,Tanjung Benoa,Laut,3
+2022,Januari,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,58111
+2022,Januari,PAPUA,Jayapura,Darat,0
+2022,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,234
+2022,Januari,KALIMANTAN BARAT,Entikong,Darat,0
+2022,Januari,KALIMANTAN BARAT,Aruk,Darat,0
+2022,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2022,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,63067
+2022,Februari,BALI,Ngurah Rai,Udara,1293
+2022,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,15406
+2022,Februari,JAWA TIMUR,Juanda,Udara,0
+2022,Februari,SUMATERA UTARA,Kualanamu,Udara,0
+2022,Februari,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2022,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,488
+2022,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,647
+2022,Februari,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Februari,RIAU,Sultan Syarif Kasim II,Udara,0
+2022,Februari,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Februari,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Februari,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Februari,SULAWESI SELATAN,Hasanuddin,Udara,0
+2022,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,0
+2022,Februari,KEP. RIAU,Batam,Laut,329
+2022,Februari,KEP. RIAU,Tanjung Uban,Laut,31
+2022,Februari,KEP. RIAU,Tanjung Pinang,Laut,4
+2022,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2022,Februari,BALI,Tanjung Benoa,Laut,17
+2022,Februari,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,51158
+2022,Februari,PAPUA,Jayapura,Darat,0
+2022,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,226
+2022,Februari,KALIMANTAN BARAT,Entikong,Darat,0
+2022,Februari,KALIMANTAN BARAT,Aruk,Darat,0
+2022,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2022,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,47910
+2022,Maret,BALI,Ngurah Rai,Udara,14617
+2022,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,23320
+2022,Maret,JAWA TIMUR,Juanda,Udara,57
+2022,Maret,SUMATERA UTARA,Kualanamu,Udara,11
+2022,Maret,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2022,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,12
+2022,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,1045
+2022,Maret,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Maret,RIAU,Sultan Syarif Kasim II,Udara,0
+2022,Maret,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Maret,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Maret,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Maret,SULAWESI SELATAN,Hasanuddin,Udara,0
+2022,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,0
+2022,Maret,KEP. RIAU,Batam,Laut,995
+2022,Maret,KEP. RIAU,Tanjung Uban,Laut,367
+2022,Maret,KEP. RIAU,Tanjung Pinang,Laut,1
+2022,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2022,Maret,BALI,Tanjung Benoa,Laut,3
+2022,Maret,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,58991
+2022,Maret,PAPUA,Jayapura,Darat,0
+2022,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,317
+2022,Maret,KALIMANTAN BARAT,Entikong,Darat,2
+2022,Maret,KALIMANTAN BARAT,Aruk,Darat,0
+2022,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2022,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,58891
+2022,April,BALI,Ngurah Rai,Udara,58315
+2022,April,DKI JAKARTA,Soekarno-Hatta,Udara,36061
+2022,April,JAWA TIMUR,Juanda,Udara,1468
+2022,April,SUMATERA UTARA,Kualanamu,Udara,494
+2022,April,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,April,DI YOGYAKARTA,Adi Sucipto,Udara,35
+2022,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2022,April,SULAWESI UTARA,Sam Ratulangi,Udara,851
+2022,April,SUMATERA BARAT,Minangkabau,Udara,0
+2022,April,RIAU,Sultan Syarif Kasim II,Udara,0
+2022,April,ACEH,Sultan Iskandar Muda,Udara,0
+2022,April,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,April,KALIMANTAN BARAT,Supadio,Udara,0
+2022,April,SULAWESI SELATAN,Hasanuddin,Udara,164
+2022,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,13
+2022,April,KEP. RIAU,Batam,Laut,8136
+2022,April,KEP. RIAU,Tanjung Uban,Laut,2998
+2022,April,KEP. RIAU,Tanjung Pinang,Laut,660
+2022,April,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2022,April,BALI,Tanjung Benoa,Laut,20
+2022,April,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,57271
+2022,April,PAPUA,Jayapura,Darat,20
+2022,April,NUSA TENGGARA TIMUR,Atambua,Darat,737
+2022,April,KALIMANTAN BARAT,Entikong,Darat,254
+2022,April,KALIMANTAN BARAT,Aruk,Darat,218
+2022,April,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2022,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,62361
+2022,Mei,BALI,Ngurah Rai,Udara,115553
+2022,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,57844
+2022,Mei,JAWA TIMUR,Juanda,Udara,4598
+2022,Mei,SUMATERA UTARA,Kualanamu,Udara,3861
+2022,Mei,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,260
+2022,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,487
+2022,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,843
+2022,Mei,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Mei,RIAU,Sultan Syarif Kasim II,Udara,0
+2022,Mei,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Mei,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Mei,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Mei,SULAWESI SELATAN,Hasanuddin,Udara,364
+2022,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,20
+2022,Mei,KEP. RIAU,Batam,Laut,16741
+2022,Mei,KEP. RIAU,Tanjung Uban,Laut,5281
+2022,Mei,KEP. RIAU,Tanjung Pinang,Laut,1141
+2022,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,659
+2022,Mei,BALI,Tanjung Benoa,Laut,58
+2022,Mei,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,81839
+2022,Mei,PAPUA,Jayapura,Darat,0
+2022,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,1203
+2022,Mei,KALIMANTAN BARAT,Entikong,Darat,556
+2022,Mei,KALIMANTAN BARAT,Aruk,Darat,622
+2022,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2022,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,62990
+2022,Juni,BALI,Ngurah Rai,Udara,181545
+2022,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,85587
+2022,Juni,JAWA TIMUR,Juanda,Udara,4722
+2022,Juni,SUMATERA UTARA,Kualanamu,Udara,5165
+2022,Juni,JAWA BARAT,Husein Sastranegara,Udara,49
+2022,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,369
+2022,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,1011
+2022,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,1472
+2022,Juni,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Juni,RIAU,Sultan Syarif Kasim II,Udara,0
+2022,Juni,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Juni,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Juni,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Juni,SULAWESI SELATAN,Hasanuddin,Udara,523
+2022,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,8
+2022,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,31
+2022,Juni,KEP. RIAU,Batam,Laut,39649
+2022,Juni,KEP. RIAU,Tanjung Uban,Laut,12509
+2022,Juni,KEP. RIAU,Tanjung Pinang,Laut,2758
+2022,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,2519
+2022,Juni,BALI,Tanjung Benoa,Laut,80
+2022,Juni,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,77149
+2022,Juni,PAPUA,Jayapura,Darat,0
+2022,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,1792
+2022,Juni,KALIMANTAN BARAT,Entikong,Darat,789
+2022,Juni,KALIMANTAN BARAT,Aruk,Darat,969
+2022,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2022,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,65187
+2022,Juli,BALI,Ngurah Rai,Udara,246442
+2022,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,119179
+2022,Juli,JAWA TIMUR,Juanda,Udara,6087
+2022,Juli,SUMATERA UTARA,Kualanamu,Udara,7518
+2022,Juli,JAWA BARAT,Husein Sastranegara,Udara,21
+2022,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,809
+2022,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,1658
+2022,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,1684
+2022,Juli,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Juli,RIAU,Sultan Syarif Kasim II,Udara,32
+2022,Juli,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Juli,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Juli,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Juli,SULAWESI SELATAN,Hasanuddin,Udara,706
+2022,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1024
+2022,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2024
+2022,Juli,KEP. RIAU,Batam,Laut,56610
+2022,Juli,KEP. RIAU,Tanjung Uban,Laut,16988
+2022,Juli,KEP. RIAU,Tanjung Pinang,Laut,1965
+2022,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,4122
+2022,Juli,BALI,Tanjung Benoa,Laut,62
+2022,Juli,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,104446
+2022,Juli,PAPUA,Jayapura,Darat,0
+2022,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,1149
+2022,Juli,KALIMANTAN BARAT,Entikong,Darat,646
+2022,Juli,KALIMANTAN BARAT,Aruk,Darat,1792
+2022,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,15
+2022,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,70142
+2022,Agustus,BALI,Ngurah Rai,Udara,276627
+2022,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,121427
+2022,Agustus,JAWA TIMUR,Juanda,Udara,8386
+2022,Agustus,SUMATERA UTARA,Kualanamu,Udara,10287
+2022,Agustus,JAWA BARAT,Husein Sastranegara,Udara,15
+2022,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,640
+2022,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2054
+2022,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,1758
+2022,Agustus,SUMATERA BARAT,Minangkabau,Udara,0
+2022,Agustus,RIAU,Sultan Syarif Kasim II,Udara,117
+2022,Agustus,ACEH,Sultan Iskandar Muda,Udara,0
+2022,Agustus,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Agustus,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,503
+2022,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,4
+2022,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,682
+2022,Agustus,KEP. RIAU,Batam,Laut,59750
+2022,Agustus,KEP. RIAU,Tanjung Uban,Laut,13277
+2022,Agustus,KEP. RIAU,Tanjung Pinang,Laut,2801
+2022,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,3139
+2022,Agustus,BALI,Tanjung Benoa,Laut,32
+2022,Agustus,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,85919
+2022,Agustus,PAPUA,Jayapura,Darat,0
+2022,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,3120
+2022,Agustus,KALIMANTAN BARAT,Entikong,Darat,745
+2022,Agustus,KALIMANTAN BARAT,Aruk,Darat,1149
+2022,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,318
+2022,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,77759
+2022,September,BALI,Ngurah Rai,Udara,291115
+2022,September,DKI JAKARTA,Soekarno-Hatta,Udara,111033
+2022,September,JAWA TIMUR,Juanda,Udara,9152
+2022,September,SUMATERA UTARA,Kualanamu,Udara,5895
+2022,September,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,September,DI YOGYAKARTA,Adi Sucipto,Udara,974
+2022,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2251
+2022,September,SULAWESI UTARA,Sam Ratulangi,Udara,2178
+2022,September,SUMATERA BARAT,Minangkabau,Udara,0
+2022,September,RIAU,Sultan Syarif Kasim II,Udara,272
+2022,September,ACEH,Sultan Iskandar Muda,Udara,0
+2022,September,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,September,KALIMANTAN BARAT,Supadio,Udara,0
+2022,September,SULAWESI SELATAN,Hasanuddin,Udara,701
+2022,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,4
+2022,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,623
+2022,September,KEP. RIAU,Batam,Laut,77981
+2022,September,KEP. RIAU,Tanjung Uban,Laut,18218
+2022,September,KEP. RIAU,Tanjung Pinang,Laut,3716
+2022,September,KEP. RIAU,Tanjung Balai Karimun,Laut,4188
+2022,September,BALI,Tanjung Benoa,Laut,46
+2022,September,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,92519
+2022,September,PAPUA,Jayapura,Darat,0
+2022,September,NUSA TENGGARA TIMUR,Atambua,Darat,2672
+2022,September,KALIMANTAN BARAT,Entikong,Darat,1360
+2022,September,KALIMANTAN BARAT,Aruk,Darat,1692
+2022,September,KALIMANTAN BARAT,Nanga Badau,Darat,425
+2022,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,73591
+2022,Oktober,BALI,Ngurah Rai,Udara,305152
+2022,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,112527
+2022,Oktober,JAWA TIMUR,Juanda,Udara,9415
+2022,Oktober,SUMATERA UTARA,Kualanamu,Udara,11454
+2022,Oktober,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,1933
+2022,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2226
+2022,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,1581
+2022,Oktober,SUMATERA BARAT,Minangkabau,Udara,371
+2022,Oktober,RIAU,Sultan Syarif Kasim II,Udara,632
+2022,Oktober,ACEH,Sultan Iskandar Muda,Udara,257
+2022,Oktober,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Oktober,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,897
+2022,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,90
+2022,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,539
+2022,Oktober,KEP. RIAU,Batam,Laut,77752
+2022,Oktober,KEP. RIAU,Tanjung Uban,Laut,19932
+2022,Oktober,KEP. RIAU,Tanjung Pinang,Laut,3912
+2022,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,4085
+2022,Oktober,BALI,Tanjung Benoa,Laut,92
+2022,Oktober,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,101617
+2022,Oktober,PAPUA,Jayapura,Darat,78
+2022,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,2646
+2022,Oktober,KALIMANTAN BARAT,Entikong,Darat,1804
+2022,Oktober,KALIMANTAN BARAT,Aruk,Darat,2116
+2022,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,347
+2022,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,72773
+2022,November,BALI,Ngurah Rai,Udara,287025
+2022,November,DKI JAKARTA,Soekarno-Hatta,Udara,113729
+2022,November,JAWA TIMUR,Juanda,Udara,9644
+2022,November,SUMATERA UTARA,Kualanamu,Udara,10615
+2022,November,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,November,DI YOGYAKARTA,Adi Sucipto,Udara,1947
+2022,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,1921
+2022,November,SULAWESI UTARA,Sam Ratulangi,Udara,1721
+2022,November,SUMATERA BARAT,Minangkabau,Udara,709
+2022,November,RIAU,Sultan Syarif Kasim II,Udara,955
+2022,November,ACEH,Sultan Iskandar Muda,Udara,452
+2022,November,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,November,KALIMANTAN BARAT,Supadio,Udara,0
+2022,November,SULAWESI SELATAN,Hasanuddin,Udara,526
+2022,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,735
+2022,November,KEP. RIAU,Batam,Laut,80216
+2022,November,KEP. RIAU,Tanjung Uban,Laut,16473
+2022,November,KEP. RIAU,Tanjung Pinang,Laut,3117
+2022,November,KEP. RIAU,Tanjung Balai Karimun,Laut,3588
+2022,November,BALI,Tanjung Benoa,Laut,373
+2022,November,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,90127
+2022,November,PAPUA,Jayapura,Darat,166
+2022,November,NUSA TENGGARA TIMUR,Atambua,Darat,2511
+2022,November,KALIMANTAN BARAT,Entikong,Darat,1771
+2022,November,KALIMANTAN BARAT,Aruk,Darat,1197
+2022,November,KALIMANTAN BARAT,Nanga Badau,Darat,291
+2022,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,74974
+2022,Desember,BALI,Ngurah Rai,Udara,376361
+2022,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,124475
+2022,Desember,JAWA TIMUR,Juanda,Udara,14264
+2022,Desember,SUMATERA UTARA,Kualanamu,Udara,19198
+2022,Desember,JAWA BARAT,Husein Sastranegara,Udara,0
+2022,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,5169
+2022,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2914
+2022,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,1142
+2022,Desember,SUMATERA BARAT,Minangkabau,Udara,3062
+2022,Desember,RIAU,Sultan Syarif Kasim II,Udara,1977
+2022,Desember,ACEH,Sultan Iskandar Muda,Udara,1177
+2022,Desember,JAWA TENGAH,Ahmad Yani,Udara,0
+2022,Desember,KALIMANTAN BARAT,Supadio,Udara,0
+2022,Desember,SULAWESI SELATAN,Hasanuddin,Udara,1530
+2022,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2022,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,658
+2022,Desember,KEP. RIAU,Batam,Laut,144521
+2022,Desember,KEP. RIAU,Tanjung Uban,Laut,31367
+2022,Desember,KEP. RIAU,Tanjung Pinang,Laut,5475
+2022,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,6684
+2022,Desember,BALI,Tanjung Benoa,Laut,914
+2022,Desember,JAWA TENGAH,Tanjung Mas,Laut,0
+2022,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,111006
+2022,Desember,PAPUA,Jayapura,Darat,184
+2022,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,4300
+2022,Desember,KALIMANTAN BARAT,Entikong,Darat,3877
+2022,Desember,KALIMANTAN BARAT,Aruk,Darat,3020
+2022,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,1153
+2022,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,88041
+2021,Januari,BALI,Ngurah Rai,Udara,2
+2021,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,1238
+2021,Januari,JAWA TIMUR,Juanda,Udara,20
+2021,Januari,SUMATERA UTARA,Kualanamu,Udara,11
+2021,Januari,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,1
+2021,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,433
+2021,Januari,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Januari,RIAU,Sultan Syarif Kasim II,Udara,1
+2021,Januari,ACEH,Sultan Iskandar Muda,Udara,0
+2021,Januari,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,Januari,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Januari,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,25
+2021,Januari,KEP. RIAU,Batam,Laut,260
+2021,Januari,KEP. RIAU,Tanjung Uban,Laut,0
+2021,Januari,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Januari,BALI,Tanjung Benoa,Laut,8
+2021,Januari,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,37399
+2021,Januari,PAPUA,Jayapura,Darat,2
+2021,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,4
+2021,Januari,KALIMANTAN BARAT,Entikong,Darat,6
+2021,Januari,KALIMANTAN BARAT,Aruk,Darat,3
+2021,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,87102
+2021,Februari,BALI,Ngurah Rai,Udara,12
+2021,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,5958
+2021,Februari,JAWA TIMUR,Juanda,Udara,69
+2021,Februari,SUMATERA UTARA,Kualanamu,Udara,17
+2021,Februari,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,1027
+2021,Februari,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Februari,RIAU,Sultan Syarif Kasim II,Udara,3
+2021,Februari,ACEH,Sultan Iskandar Muda,Udara,0
+2021,Februari,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,Februari,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Februari,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,24
+2021,Februari,KEP. RIAU,Batam,Laut,157
+2021,Februari,KEP. RIAU,Tanjung Uban,Laut,0
+2021,Februari,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,15
+2021,Februari,BALI,Tanjung Benoa,Laut,0
+2021,Februari,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,29128
+2021,Februari,PAPUA,Jayapura,Darat,2
+2021,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,26
+2021,Februari,KALIMANTAN BARAT,Entikong,Darat,11
+2021,Februari,KALIMANTAN BARAT,Aruk,Darat,2
+2021,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,69337
+2021,Maret,BALI,Ngurah Rai,Udara,3
+2021,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,10188
+2021,Maret,JAWA TIMUR,Juanda,Udara,52
+2021,Maret,SUMATERA UTARA,Kualanamu,Udara,45
+2021,Maret,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2
+2021,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,2513
+2021,Maret,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Maret,RIAU,Sultan Syarif Kasim II,Udara,8
+2021,Maret,ACEH,Sultan Iskandar Muda,Udara,0
+2021,Maret,JAWA TENGAH,Ahmad Yani,Udara,2
+2021,Maret,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Maret,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,39
+2021,Maret,KEP. RIAU,Batam,Laut,343
+2021,Maret,KEP. RIAU,Tanjung Uban,Laut,81
+2021,Maret,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Maret,BALI,Tanjung Benoa,Laut,0
+2021,Maret,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,34893
+2021,Maret,PAPUA,Jayapura,Darat,0
+2021,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,0
+2021,Maret,KALIMANTAN BARAT,Entikong,Darat,14
+2021,Maret,KALIMANTAN BARAT,Aruk,Darat,13
+2021,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,71783
+2021,April,BALI,Ngurah Rai,Udara,9
+2021,April,DKI JAKARTA,Soekarno-Hatta,Udara,15471
+2021,April,JAWA TIMUR,Juanda,Udara,106
+2021,April,SUMATERA UTARA,Kualanamu,Udara,22
+2021,April,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,April,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,April,SULAWESI UTARA,Sam Ratulangi,Udara,2685
+2021,April,SUMATERA BARAT,Minangkabau,Udara,0
+2021,April,RIAU,Sultan Syarif Kasim II,Udara,1
+2021,April,ACEH,Sultan Iskandar Muda,Udara,1
+2021,April,JAWA TENGAH,Ahmad Yani,Udara,2
+2021,April,KALIMANTAN BARAT,Supadio,Udara,0
+2021,April,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,29
+2021,April,KEP. RIAU,Batam,Laut,191
+2021,April,KEP. RIAU,Tanjung Uban,Laut,10
+2021,April,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,April,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,April,BALI,Tanjung Benoa,Laut,0
+2021,April,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,30717
+2021,April,PAPUA,Jayapura,Darat,3
+2021,April,NUSA TENGGARA TIMUR,Atambua,Darat,3
+2021,April,KALIMANTAN BARAT,Entikong,Darat,2
+2021,April,KALIMANTAN BARAT,Aruk,Darat,1
+2021,April,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,63503
+2021,Mei,BALI,Ngurah Rai,Udara,8
+2021,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,12775
+2021,Mei,JAWA TIMUR,Juanda,Udara,160
+2021,Mei,SUMATERA UTARA,Kualanamu,Udara,50
+2021,Mei,JAWA BARAT,Husein Sastranegara,Udara,1
+2021,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,1015
+2021,Mei,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Mei,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,Mei,ACEH,Sultan Iskandar Muda,Udara,4
+2021,Mei,JAWA TENGAH,Ahmad Yani,Udara,1
+2021,Mei,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Mei,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,26
+2021,Mei,KEP. RIAU,Batam,Laut,245
+2021,Mei,KEP. RIAU,Tanjung Uban,Laut,20
+2021,Mei,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Mei,BALI,Tanjung Benoa,Laut,0
+2021,Mei,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,39455
+2021,Mei,PAPUA,Jayapura,Darat,0
+2021,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,13
+2021,Mei,KALIMANTAN BARAT,Entikong,Darat,0
+2021,Mei,KALIMANTAN BARAT,Aruk,Darat,1
+2021,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,85659
+2021,Juni,BALI,Ngurah Rai,Udara,1
+2021,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,13448
+2021,Juni,JAWA TIMUR,Juanda,Udara,181
+2021,Juni,SUMATERA UTARA,Kualanamu,Udara,38
+2021,Juni,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,2435
+2021,Juni,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Juni,RIAU,Sultan Syarif Kasim II,Udara,88
+2021,Juni,ACEH,Sultan Iskandar Muda,Udara,3
+2021,Juni,JAWA TENGAH,Ahmad Yani,Udara,3
+2021,Juni,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Juni,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,37
+2021,Juni,KEP. RIAU,Batam,Laut,250
+2021,Juni,KEP. RIAU,Tanjung Uban,Laut,20
+2021,Juni,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Juni,BALI,Tanjung Benoa,Laut,0
+2021,Juni,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,29659
+2021,Juni,PAPUA,Jayapura,Darat,0
+2021,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,152
+2021,Juni,KALIMANTAN BARAT,Entikong,Darat,0
+2021,Juni,KALIMANTAN BARAT,Aruk,Darat,0
+2021,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,80529
+2021,Juli,BALI,Ngurah Rai,Udara,0
+2021,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,5466
+2021,Juli,JAWA TIMUR,Juanda,Udara,52
+2021,Juli,SUMATERA UTARA,Kualanamu,Udara,28
+2021,Juli,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,695
+2021,Juli,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Juli,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,Juli,ACEH,Sultan Iskandar Muda,Udara,1
+2021,Juli,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,Juli,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Juli,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,804
+2021,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,129
+2021,Juli,KEP. RIAU,Batam,Laut,153
+2021,Juli,KEP. RIAU,Tanjung Uban,Laut,0
+2021,Juli,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Juli,BALI,Tanjung Benoa,Laut,0
+2021,Juli,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,35358
+2021,Juli,PAPUA,Jayapura,Darat,0
+2021,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,12
+2021,Juli,KALIMANTAN BARAT,Entikong,Darat,1
+2021,Juli,KALIMANTAN BARAT,Aruk,Darat,1
+2021,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,84549
+2021,Agustus,BALI,Ngurah Rai,Udara,0
+2021,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,1071
+2021,Agustus,JAWA TIMUR,Juanda,Udara,10
+2021,Agustus,SUMATERA UTARA,Kualanamu,Udara,4
+2021,Agustus,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,26
+2021,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,5
+2021,Agustus,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Agustus,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,Agustus,ACEH,Sultan Iskandar Muda,Udara,0
+2021,Agustus,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,Agustus,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,477
+2021,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,16
+2021,Agustus,KEP. RIAU,Batam,Laut,149
+2021,Agustus,KEP. RIAU,Tanjung Uban,Laut,0
+2021,Agustus,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Agustus,BALI,Tanjung Benoa,Laut,0
+2021,Agustus,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,33348
+2021,Agustus,PAPUA,Jayapura,Darat,0
+2021,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,12
+2021,Agustus,KALIMANTAN BARAT,Entikong,Darat,0
+2021,Agustus,KALIMANTAN BARAT,Aruk,Darat,0
+2021,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,83415
+2021,September,BALI,Ngurah Rai,Udara,0
+2021,September,DKI JAKARTA,Soekarno-Hatta,Udara,4081
+2021,September,JAWA TIMUR,Juanda,Udara,2
+2021,September,SUMATERA UTARA,Kualanamu,Udara,3
+2021,September,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,September,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,September,SULAWESI UTARA,Sam Ratulangi,Udara,593
+2021,September,SUMATERA BARAT,Minangkabau,Udara,0
+2021,September,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,September,ACEH,Sultan Iskandar Muda,Udara,0
+2021,September,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,September,KALIMANTAN BARAT,Supadio,Udara,0
+2021,September,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,69
+2021,September,KEP. RIAU,Batam,Laut,129
+2021,September,KEP. RIAU,Tanjung Uban,Laut,0
+2021,September,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,September,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,September,BALI,Tanjung Benoa,Laut,0
+2021,September,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,33268
+2021,September,PAPUA,Jayapura,Darat,3
+2021,September,NUSA TENGGARA TIMUR,Atambua,Darat,73
+2021,September,KALIMANTAN BARAT,Entikong,Darat,0
+2021,September,KALIMANTAN BARAT,Aruk,Darat,0
+2021,September,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,81879
+2021,Oktober,BALI,Ngurah Rai,Udara,2
+2021,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,13700
+2021,Oktober,JAWA TIMUR,Juanda,Udara,37
+2021,Oktober,SUMATERA UTARA,Kualanamu,Udara,0
+2021,Oktober,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,1952
+2021,Oktober,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Oktober,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,Oktober,ACEH,Sultan Iskandar Muda,Udara,0
+2021,Oktober,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,Oktober,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,31
+2021,Oktober,KEP. RIAU,Batam,Laut,158
+2021,Oktober,KEP. RIAU,Tanjung Uban,Laut,0
+2021,Oktober,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Oktober,BALI,Tanjung Benoa,Laut,0
+2021,Oktober,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,38087
+2021,Oktober,PAPUA,Jayapura,Darat,0
+2021,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,64
+2021,Oktober,KALIMANTAN BARAT,Entikong,Darat,0
+2021,Oktober,KALIMANTAN BARAT,Aruk,Darat,1
+2021,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,92105
+2021,November,BALI,Ngurah Rai,Udara,6
+2021,November,DKI JAKARTA,Soekarno-Hatta,Udara,18971
+2021,November,JAWA TIMUR,Juanda,Udara,0
+2021,November,SUMATERA UTARA,Kualanamu,Udara,0
+2021,November,JAWA BARAT,Husein Sastranegara,Udara,6
+2021,November,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,November,SULAWESI UTARA,Sam Ratulangi,Udara,851
+2021,November,SUMATERA BARAT,Minangkabau,Udara,0
+2021,November,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,November,ACEH,Sultan Iskandar Muda,Udara,0
+2021,November,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,November,KALIMANTAN BARAT,Supadio,Udara,0
+2021,November,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,75
+2021,November,KEP. RIAU,Batam,Laut,234
+2021,November,KEP. RIAU,Tanjung Uban,Laut,51
+2021,November,KEP. RIAU,Tanjung Pinang,Laut,0
+2021,November,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,November,BALI,Tanjung Benoa,Laut,0
+2021,November,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,32456
+2021,November,PAPUA,Jayapura,Darat,0
+2021,November,NUSA TENGGARA TIMUR,Atambua,Darat,142
+2021,November,KALIMANTAN BARAT,Entikong,Darat,2
+2021,November,KALIMANTAN BARAT,Aruk,Darat,3
+2021,November,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,97780
+2021,Desember,BALI,Ngurah Rai,Udara,0
+2021,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,16696
+2021,Desember,JAWA TIMUR,Juanda,Udara,0
+2021,Desember,SUMATERA UTARA,Kualanamu,Udara,0
+2021,Desember,JAWA BARAT,Husein Sastranegara,Udara,0
+2021,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2021,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2021,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,1035
+2021,Desember,SUMATERA BARAT,Minangkabau,Udara,0
+2021,Desember,RIAU,Sultan Syarif Kasim II,Udara,0
+2021,Desember,ACEH,Sultan Iskandar Muda,Udara,2
+2021,Desember,JAWA TENGAH,Ahmad Yani,Udara,0
+2021,Desember,KALIMANTAN BARAT,Supadio,Udara,0
+2021,Desember,SULAWESI SELATAN,Hasanuddin,Udara,0
+2021,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2021,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,53
+2021,Desember,KEP. RIAU,Batam,Laut,313
+2021,Desember,KEP. RIAU,Tanjung Uban,Laut,77
+2021,Desember,KEP. RIAU,Tanjung Pinang,Laut,154
+2021,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2021,Desember,BALI,Tanjung Benoa,Laut,0
+2021,Desember,JAWA TENGAH,Tanjung Mas,Laut,0
+2021,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,38686
+2021,Desember,PAPUA,Jayapura,Darat,3
+2021,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,184
+2021,Desember,KALIMANTAN BARAT,Entikong,Darat,10
+2021,Desember,KALIMANTAN BARAT,Aruk,Darat,2
+2021,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2021,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,106404
+2020,Januari,BALI,Ngurah Rai,Udara,533392
+2020,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,186793
+2020,Januari,JAWA TIMUR,Juanda,Udara,17119
+2020,Januari,SUMATERA UTARA,Kualanamu,Udara,19419
+2020,Januari,JAWA BARAT,Husein Sastranegara,Udara,12882
+2020,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,8386
+2020,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6331
+2020,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,12517
+2020,Januari,SUMATERA BARAT,Minangkabau,Udara,4616
+2020,Januari,RIAU,Sultan Syarif Kasim II,Udara,3212
+2020,Januari,ACEH,Sultan Iskandar Muda,Udara,3976
+2020,Januari,JAWA TENGAH,Ahmad Yani,Udara,2239
+2020,Januari,KALIMANTAN BARAT,Supadio,Udara,1879
+2020,Januari,SULAWESI SELATAN,Hasanuddin,Udara,1338
+2020,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1263
+2020,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,6489
+2020,Januari,KEP. RIAU,Batam,Laut,154464
+2020,Januari,KEP. RIAU,Tanjung Uban,Laut,41252
+2020,Januari,KEP. RIAU,Tanjung Pinang,Laut,14021
+2020,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,10828
+2020,Januari,BALI,Tanjung Benoa,Laut,3214
+2020,Januari,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,89762
+2020,Januari,PAPUA,Jayapura,Darat,5671
+2020,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,12640
+2020,Januari,KALIMANTAN BARAT,Entikong,Darat,2177
+2020,Januari,KALIMANTAN BARAT,Aruk,Darat,2834
+2020,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,1213
+2020,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,130484
+2020,Februari,BALI,Ngurah Rai,Udara,358929
+2020,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,132490
+2020,Februari,JAWA TIMUR,Juanda,Udara,11706
+2020,Februari,SUMATERA UTARA,Kualanamu,Udara,14309
+2020,Februari,JAWA BARAT,Husein Sastranegara,Udara,12494
+2020,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,7101
+2020,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,4224
+2020,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,928
+2020,Februari,SUMATERA BARAT,Minangkabau,Udara,4111
+2020,Februari,RIAU,Sultan Syarif Kasim II,Udara,2378
+2020,Februari,ACEH,Sultan Iskandar Muda,Udara,3978
+2020,Februari,JAWA TENGAH,Ahmad Yani,Udara,1769
+2020,Februari,KALIMANTAN BARAT,Supadio,Udara,1780
+2020,Februari,SULAWESI SELATAN,Hasanuddin,Udara,1227
+2020,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,851
+2020,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,3875
+2020,Februari,KEP. RIAU,Batam,Laut,94684
+2020,Februari,KEP. RIAU,Tanjung Uban,Laut,18230
+2020,Februari,KEP. RIAU,Tanjung Pinang,Laut,4849
+2020,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,7444
+2020,Februari,BALI,Tanjung Benoa,Laut,5710
+2020,Februari,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,61687
+2020,Februari,PAPUA,Jayapura,Darat,0
+2020,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,7124
+2020,Februari,KALIMANTAN BARAT,Entikong,Darat,1746
+2020,Februari,KALIMANTAN BARAT,Aruk,Darat,2330
+2020,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,989
+2020,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,105822
+2020,Maret,BALI,Ngurah Rai,Udara,166388
+2020,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,53124
+2020,Maret,JAWA TIMUR,Juanda,Udara,5765
+2020,Maret,SUMATERA UTARA,Kualanamu,Udara,7334
+2020,Maret,JAWA BARAT,Husein Sastranegara,Udara,5780
+2020,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,3159
+2020,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,1954
+2020,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,566
+2020,Maret,SUMATERA BARAT,Minangkabau,Udara,2530
+2020,Maret,RIAU,Sultan Syarif Kasim II,Udara,1241
+2020,Maret,ACEH,Sultan Iskandar Muda,Udara,2390
+2020,Maret,JAWA TENGAH,Ahmad Yani,Udara,932
+2020,Maret,KALIMANTAN BARAT,Supadio,Udara,818
+2020,Maret,SULAWESI SELATAN,Hasanuddin,Udara,1032
+2020,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,449
+2020,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1605
+2020,Maret,KEP. RIAU,Batam,Laut,43853
+2020,Maret,KEP. RIAU,Tanjung Uban,Laut,5047
+2020,Maret,KEP. RIAU,Tanjung Pinang,Laut,2623
+2020,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,3552
+2020,Maret,BALI,Tanjung Benoa,Laut,1071
+2020,Maret,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,55177
+2020,Maret,PAPUA,Jayapura,Darat,0
+2020,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,3955
+2020,Maret,KALIMANTAN BARAT,Entikong,Darat,833
+2020,Maret,KALIMANTAN BARAT,Aruk,Darat,937
+2020,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,610
+2020,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,113430
+2020,April,BALI,Ngurah Rai,Udara,273
+2020,April,DKI JAKARTA,Soekarno-Hatta,Udara,420
+2020,April,JAWA TIMUR,Juanda,Udara,25
+2020,April,SUMATERA UTARA,Kualanamu,Udara,10
+2020,April,JAWA BARAT,Husein Sastranegara,Udara,0
+2020,April,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,10
+2020,April,SULAWESI UTARA,Sam Ratulangi,Udara,0
+2020,April,SUMATERA BARAT,Minangkabau,Udara,0
+2020,April,RIAU,Sultan Syarif Kasim II,Udara,0
+2020,April,ACEH,Sultan Iskandar Muda,Udara,1
+2020,April,JAWA TENGAH,Ahmad Yani,Udara,3
+2020,April,KALIMANTAN BARAT,Supadio,Udara,0
+2020,April,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2020,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,41
+2020,April,KEP. RIAU,Batam,Laut,230
+2020,April,KEP. RIAU,Tanjung Uban,Laut,63
+2020,April,KEP. RIAU,Tanjung Pinang,Laut,106
+2020,April,KEP. RIAU,Tanjung Balai Karimun,Laut,6
+2020,April,BALI,Tanjung Benoa,Laut,106
+2020,April,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,44547
+2020,April,PAPUA,Jayapura,Darat,0
+2020,April,NUSA TENGGARA TIMUR,Atambua,Darat,2
+2020,April,KALIMANTAN BARAT,Entikong,Darat,5
+2020,April,KALIMANTAN BARAT,Aruk,Darat,19
+2020,April,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,112199
+2020,Mei,BALI,Ngurah Rai,Udara,34
+2020,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,396
+2020,Mei,JAWA TIMUR,Juanda,Udara,12
+2020,Mei,SUMATERA UTARA,Kualanamu,Udara,1
+2020,Mei,JAWA BARAT,Husein Sastranegara,Udara,0
+2020,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2020,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,0
+2020,Mei,SUMATERA BARAT,Minangkabau,Udara,0
+2020,Mei,RIAU,Sultan Syarif Kasim II,Udara,0
+2020,Mei,ACEH,Sultan Iskandar Muda,Udara,0
+2020,Mei,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,Mei,KALIMANTAN BARAT,Supadio,Udara,0
+2020,Mei,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,2
+2020,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,61
+2020,Mei,KEP. RIAU,Batam,Laut,214
+2020,Mei,KEP. RIAU,Tanjung Uban,Laut,61
+2020,Mei,KEP. RIAU,Tanjung Pinang,Laut,58
+2020,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2020,Mei,BALI,Tanjung Benoa,Laut,2
+2020,Mei,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,46280
+2020,Mei,PAPUA,Jayapura,Darat,0
+2020,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,2
+2020,Mei,KALIMANTAN BARAT,Entikong,Darat,2
+2020,Mei,KALIMANTAN BARAT,Aruk,Darat,23
+2020,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,114694
+2020,Juni,BALI,Ngurah Rai,Udara,10
+2020,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,909
+2020,Juni,JAWA TIMUR,Juanda,Udara,97
+2020,Juni,SUMATERA UTARA,Kualanamu,Udara,95
+2020,Juni,JAWA BARAT,Husein Sastranegara,Udara,0
+2020,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,7
+2020,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,19
+2020,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,267
+2020,Juni,SUMATERA BARAT,Minangkabau,Udara,0
+2020,Juni,RIAU,Sultan Syarif Kasim II,Udara,1
+2020,Juni,ACEH,Sultan Iskandar Muda,Udara,0
+2020,Juni,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,Juni,KALIMANTAN BARAT,Supadio,Udara,0
+2020,Juni,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,17
+2020,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,41
+2020,Juni,KEP. RIAU,Batam,Laut,94
+2020,Juni,KEP. RIAU,Tanjung Uban,Laut,0
+2020,Juni,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2020,Juni,BALI,Tanjung Benoa,Laut,35
+2020,Juni,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,46931
+2020,Juni,PAPUA,Jayapura,Darat,0
+2020,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,0
+2020,Juni,KALIMANTAN BARAT,Entikong,Darat,4
+2020,Juni,KALIMANTAN BARAT,Aruk,Darat,64
+2020,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,107970
+2020,Juli,BALI,Ngurah Rai,Udara,16
+2020,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,3119
+2020,Juli,JAWA TIMUR,Juanda,Udara,76
+2020,Juli,SUMATERA UTARA,Kualanamu,Udara,68
+2020,Juli,JAWA BARAT,Husein Sastranegara,Udara,0
+2020,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,7
+2020,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,693
+2020,Juli,SUMATERA BARAT,Minangkabau,Udara,0
+2020,Juli,RIAU,Sultan Syarif Kasim II,Udara,0
+2020,Juli,ACEH,Sultan Iskandar Muda,Udara,0
+2020,Juli,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,Juli,KALIMANTAN BARAT,Supadio,Udara,0
+2020,Juli,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2020,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,90
+2020,Juli,KEP. RIAU,Batam,Laut,54
+2020,Juli,KEP. RIAU,Tanjung Uban,Laut,0
+2020,Juli,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2020,Juli,BALI,Tanjung Benoa,Laut,0
+2020,Juli,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,46888
+2020,Juli,PAPUA,Jayapura,Darat,0
+2020,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,36
+2020,Juli,KALIMANTAN BARAT,Entikong,Darat,26
+2020,Juli,KALIMANTAN BARAT,Aruk,Darat,4
+2020,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,104665
+2020,Agustus,BALI,Ngurah Rai,Udara,12
+2020,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,4469
+2020,Agustus,JAWA TIMUR,Juanda,Udara,24
+2020,Agustus,SUMATERA UTARA,Kualanamu,Udara,28
+2020,Agustus,JAWA BARAT,Husein Sastranegara,Udara,0
+2020,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2
+2020,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,912
+2020,Agustus,SUMATERA BARAT,Minangkabau,Udara,0
+2020,Agustus,RIAU,Sultan Syarif Kasim II,Udara,2
+2020,Agustus,ACEH,Sultan Iskandar Muda,Udara,1
+2020,Agustus,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,Agustus,KALIMANTAN BARAT,Supadio,Udara,0
+2020,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,15
+2020,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,263
+2020,Agustus,KEP. RIAU,Batam,Laut,50
+2020,Agustus,KEP. RIAU,Tanjung Uban,Laut,71
+2020,Agustus,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2020,Agustus,BALI,Tanjung Benoa,Laut,0
+2020,Agustus,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,49421
+2020,Agustus,PAPUA,Jayapura,Darat,2
+2020,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,33
+2020,Agustus,KALIMANTAN BARAT,Entikong,Darat,42
+2020,Agustus,KALIMANTAN BARAT,Aruk,Darat,4
+2020,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,106198
+2020,September,BALI,Ngurah Rai,Udara,8
+2020,September,DKI JAKARTA,Soekarno-Hatta,Udara,7468
+2020,September,JAWA TIMUR,Juanda,Udara,20
+2020,September,SUMATERA UTARA,Kualanamu,Udara,36
+2020,September,JAWA BARAT,Husein Sastranegara,Udara,23
+2020,September,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2020,September,SULAWESI UTARA,Sam Ratulangi,Udara,2174
+2020,September,SUMATERA BARAT,Minangkabau,Udara,1
+2020,September,RIAU,Sultan Syarif Kasim II,Udara,3
+2020,September,ACEH,Sultan Iskandar Muda,Udara,5
+2020,September,JAWA TENGAH,Ahmad Yani,Udara,10
+2020,September,KALIMANTAN BARAT,Supadio,Udara,0
+2020,September,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2020,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,243
+2020,September,KEP. RIAU,Batam,Laut,341
+2020,September,KEP. RIAU,Tanjung Uban,Laut,0
+2020,September,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,September,KEP. RIAU,Tanjung Balai Karimun,Laut,5
+2020,September,BALI,Tanjung Benoa,Laut,0
+2020,September,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,44763
+2020,September,PAPUA,Jayapura,Darat,0
+2020,September,NUSA TENGGARA TIMUR,Atambua,Darat,0
+2020,September,KALIMANTAN BARAT,Entikong,Darat,63
+2020,September,KALIMANTAN BARAT,Aruk,Darat,2
+2020,September,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,93819
+2020,Oktober,BALI,Ngurah Rai,Udara,7
+2020,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,9830
+2020,Oktober,JAWA TIMUR,Juanda,Udara,37
+2020,Oktober,SUMATERA UTARA,Kualanamu,Udara,29
+2020,Oktober,JAWA BARAT,Husein Sastranegara,Udara,15
+2020,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,0
+2020,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,2178
+2020,Oktober,SUMATERA BARAT,Minangkabau,Udara,0
+2020,Oktober,RIAU,Sultan Syarif Kasim II,Udara,0
+2020,Oktober,ACEH,Sultan Iskandar Muda,Udara,0
+2020,Oktober,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,Oktober,KALIMANTAN BARAT,Supadio,Udara,1
+2020,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,2
+2020,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,181
+2020,Oktober,KEP. RIAU,Batam,Laut,427
+2020,Oktober,KEP. RIAU,Tanjung Uban,Laut,0
+2020,Oktober,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2020,Oktober,BALI,Tanjung Benoa,Laut,56
+2020,Oktober,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,40887
+2020,Oktober,PAPUA,Jayapura,Darat,0
+2020,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,28
+2020,Oktober,KALIMANTAN BARAT,Entikong,Darat,23
+2020,Oktober,KALIMANTAN BARAT,Aruk,Darat,3
+2020,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,98589
+2020,November,BALI,Ngurah Rai,Udara,2
+2020,November,DKI JAKARTA,Soekarno-Hatta,Udara,14309
+2020,November,JAWA TIMUR,Juanda,Udara,69
+2020,November,SUMATERA UTARA,Kualanamu,Udara,44
+2020,November,JAWA BARAT,Husein Sastranegara,Udara,1
+2020,November,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,1
+2020,November,SULAWESI UTARA,Sam Ratulangi,Udara,1577
+2020,November,SUMATERA BARAT,Minangkabau,Udara,0
+2020,November,RIAU,Sultan Syarif Kasim II,Udara,3
+2020,November,ACEH,Sultan Iskandar Muda,Udara,0
+2020,November,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,November,KALIMANTAN BARAT,Supadio,Udara,0
+2020,November,SULAWESI SELATAN,Hasanuddin,Udara,1
+2020,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,2
+2020,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,76
+2020,November,KEP. RIAU,Batam,Laut,454
+2020,November,KEP. RIAU,Tanjung Uban,Laut,101
+2020,November,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,November,KEP. RIAU,Tanjung Balai Karimun,Laut,1
+2020,November,BALI,Tanjung Benoa,Laut,51
+2020,November,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,40363
+2020,November,PAPUA,Jayapura,Darat,2
+2020,November,NUSA TENGGARA TIMUR,Atambua,Darat,26
+2020,November,KALIMANTAN BARAT,Entikong,Darat,10
+2020,November,KALIMANTAN BARAT,Aruk,Darat,10
+2020,November,KALIMANTAN BARAT,Nanga Badau,Darat,2
+2020,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,87371
+2020,Desember,BALI,Ngurah Rai,Udara,127
+2020,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,21812
+2020,Desember,JAWA TIMUR,Juanda,Udara,85
+2020,Desember,SUMATERA UTARA,Kualanamu,Udara,54
+2020,Desember,JAWA BARAT,Husein Sastranegara,Udara,0
+2020,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,0
+2020,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2
+2020,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,1469
+2020,Desember,SUMATERA BARAT,Minangkabau,Udara,0
+2020,Desember,RIAU,Sultan Syarif Kasim II,Udara,0
+2020,Desember,ACEH,Sultan Iskandar Muda,Udara,0
+2020,Desember,JAWA TENGAH,Ahmad Yani,Udara,0
+2020,Desember,KALIMANTAN BARAT,Supadio,Udara,0
+2020,Desember,SULAWESI SELATAN,Hasanuddin,Udara,0
+2020,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,0
+2020,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,50
+2020,Desember,KEP. RIAU,Batam,Laut,471
+2020,Desember,KEP. RIAU,Tanjung Uban,Laut,71
+2020,Desember,KEP. RIAU,Tanjung Pinang,Laut,0
+2020,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,0
+2020,Desember,BALI,Tanjung Benoa,Laut,23
+2020,Desember,JAWA TENGAH,Tanjung Mas,Laut,0
+2020,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,43902
+2020,Desember,PAPUA,Jayapura,Darat,1
+2020,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,13
+2020,Desember,KALIMANTAN BARAT,Entikong,Darat,5
+2020,Desember,KALIMANTAN BARAT,Aruk,Darat,4
+2020,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,0
+2020,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,95990
+2019,Januari,BALI,Ngurah Rai,Udara,451708
+2019,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,174963
+2019,Januari,JAWA TIMUR,Juanda,Udara,13792
+2019,Januari,SUMATERA UTARA,Kualanamu,Udara,16253
+2019,Januari,JAWA BARAT,Husein Sastranegara,Udara,12524
+2019,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,8055
+2019,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2126
+2019,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,10905
+2019,Januari,SUMATERA BARAT,Minangkabau,Udara,4528
+2019,Januari,RIAU,Sultan Syarif Kasim II,Udara,2450
+2019,Januari,ACEH,Sultan Iskandar Muda,Udara,1676
+2019,Januari,JAWA TENGAH,Ahmad Yani,Udara,2165
+2019,Januari,KALIMANTAN BARAT,Supadio,Udara,1598
+2019,Januari,SULAWESI SELATAN,Hasanuddin,Udara,951
+2019,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1038
+2019,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1972
+2019,Januari,KEP. RIAU,Batam,Laut,134415
+2019,Januari,KEP. RIAU,Tanjung Uban,Laut,40601
+2019,Januari,KEP. RIAU,Tanjung Pinang,Laut,9268
+2019,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,8572
+2019,Januari,BALI,Tanjung Benoa,Laut,3862
+2019,Januari,JAWA TENGAH,Tanjung Mas,Laut,1646
+2019,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,106115
+2019,Januari,PAPUA,Jayapura,Darat,4418
+2019,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,7835
+2019,Januari,KALIMANTAN BARAT,Entikong,Darat,1563
+2019,Januari,KALIMANTAN BARAT,Aruk,Darat,804
+2019,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,1187
+2019,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,174745
+2019,Februari,BALI,Ngurah Rai,Udara,436266
+2019,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,196183
+2019,Februari,JAWA TIMUR,Juanda,Udara,17389
+2019,Februari,SUMATERA UTARA,Kualanamu,Udara,21815
+2019,Februari,JAWA BARAT,Husein Sastranegara,Udara,15127
+2019,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,9604
+2019,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,3590
+2019,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,11305
+2019,Februari,SUMATERA BARAT,Minangkabau,Udara,5144
+2019,Februari,RIAU,Sultan Syarif Kasim II,Udara,2989
+2019,Februari,ACEH,Sultan Iskandar Muda,Udara,1739
+2019,Februari,JAWA TENGAH,Ahmad Yani,Udara,2033
+2019,Februari,KALIMANTAN BARAT,Supadio,Udara,2639
+2019,Februari,SULAWESI SELATAN,Hasanuddin,Udara,1379
+2019,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1573
+2019,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2742
+2019,Februari,KEP. RIAU,Batam,Laut,159248
+2019,Februari,KEP. RIAU,Tanjung Uban,Laut,49394
+2019,Februari,KEP. RIAU,Tanjung Pinang,Laut,13141
+2019,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,11411
+2019,Februari,BALI,Tanjung Benoa,Laut,1190
+2019,Februari,JAWA TENGAH,Tanjung Mas,Laut,2328
+2019,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,104039
+2019,Februari,PAPUA,Jayapura,Darat,3889
+2019,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,5973
+2019,Februari,KALIMANTAN BARAT,Entikong,Darat,2158
+2019,Februari,KALIMANTAN BARAT,Aruk,Darat,1989
+2019,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,1128
+2019,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,156591
+2019,Maret,BALI,Ngurah Rai,Udara,441707
+2019,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,214161
+2019,Maret,JAWA TIMUR,Juanda,Udara,20497
+2019,Maret,SUMATERA UTARA,Kualanamu,Udara,21129
+2019,Maret,JAWA BARAT,Husein Sastranegara,Udara,16342
+2019,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,10550
+2019,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,3568
+2019,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,10761
+2019,Maret,SUMATERA BARAT,Minangkabau,Udara,6196
+2019,Maret,RIAU,Sultan Syarif Kasim II,Udara,3071
+2019,Maret,ACEH,Sultan Iskandar Muda,Udara,2134
+2019,Maret,JAWA TENGAH,Ahmad Yani,Udara,2296
+2019,Maret,KALIMANTAN BARAT,Supadio,Udara,2316
+2019,Maret,SULAWESI SELATAN,Hasanuddin,Udara,1825
+2019,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1419
+2019,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,849
+2019,Maret,KEP. RIAU,Batam,Laut,172461
+2019,Maret,KEP. RIAU,Tanjung Uban,Laut,61156
+2019,Maret,KEP. RIAU,Tanjung Pinang,Laut,15813
+2019,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,10859
+2019,Maret,BALI,Tanjung Benoa,Laut,7862
+2019,Maret,JAWA TENGAH,Tanjung Mas,Laut,4999
+2019,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,105548
+2019,Maret,PAPUA,Jayapura,Darat,3871
+2019,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,6741
+2019,Maret,KALIMANTAN BARAT,Entikong,Darat,2366
+2019,Maret,KALIMANTAN BARAT,Aruk,Darat,2171
+2019,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,1185
+2019,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,158058
+2019,April,BALI,Ngurah Rai,Udara,476104
+2019,April,DKI JAKARTA,Soekarno-Hatta,Udara,196977
+2019,April,JAWA TIMUR,Juanda,Udara,18431
+2019,April,SUMATERA UTARA,Kualanamu,Udara,21613
+2019,April,JAWA BARAT,Husein Sastranegara,Udara,14738
+2019,April,DI YOGYAKARTA,Adi Sucipto,Udara,9922
+2019,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5143
+2019,April,SULAWESI UTARA,Sam Ratulangi,Udara,11574
+2019,April,SUMATERA BARAT,Minangkabau,Udara,5434
+2019,April,RIAU,Sultan Syarif Kasim II,Udara,2745
+2019,April,ACEH,Sultan Iskandar Muda,Udara,2225
+2019,April,JAWA TENGAH,Ahmad Yani,Udara,1635
+2019,April,KALIMANTAN BARAT,Supadio,Udara,1886
+2019,April,SULAWESI SELATAN,Hasanuddin,Udara,1312
+2019,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1409
+2019,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,890
+2019,April,KEP. RIAU,Batam,Laut,154810
+2019,April,KEP. RIAU,Tanjung Uban,Laut,48560
+2019,April,KEP. RIAU,Tanjung Pinang,Laut,15841
+2019,April,KEP. RIAU,Tanjung Balai Karimun,Laut,10039
+2019,April,BALI,Tanjung Benoa,Laut,53
+2019,April,JAWA TENGAH,Tanjung Mas,Laut,1015
+2019,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,98566
+2019,April,PAPUA,Jayapura,Darat,4702
+2019,April,NUSA TENGGARA TIMUR,Atambua,Darat,9618
+2019,April,KALIMANTAN BARAT,Entikong,Darat,1333
+2019,April,KALIMANTAN BARAT,Aruk,Darat,836
+2019,April,KALIMANTAN BARAT,Nanga Badau,Darat,937
+2019,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,155883
+2019,Mei,BALI,Ngurah Rai,Udara,483928
+2019,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,156654
+2019,Mei,JAWA TIMUR,Juanda,Udara,14529
+2019,Mei,SUMATERA UTARA,Kualanamu,Udara,15573
+2019,Mei,JAWA BARAT,Husein Sastranegara,Udara,8029
+2019,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,6664
+2019,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2884
+2019,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,9755
+2019,Mei,SUMATERA BARAT,Minangkabau,Udara,3576
+2019,Mei,RIAU,Sultan Syarif Kasim II,Udara,2364
+2019,Mei,ACEH,Sultan Iskandar Muda,Udara,1360
+2019,Mei,JAWA TENGAH,Ahmad Yani,Udara,996
+2019,Mei,KALIMANTAN BARAT,Supadio,Udara,1527
+2019,Mei,SULAWESI SELATAN,Hasanuddin,Udara,1105
+2019,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1396
+2019,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,889
+2019,Mei,KEP. RIAU,Batam,Laut,145447
+2019,Mei,KEP. RIAU,Tanjung Uban,Laut,58673
+2019,Mei,KEP. RIAU,Tanjung Pinang,Laut,14816
+2019,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,6235
+2019,Mei,BALI,Tanjung Benoa,Laut,37
+2019,Mei,JAWA TENGAH,Tanjung Mas,Laut,0
+2019,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,109903
+2019,Mei,PAPUA,Jayapura,Darat,4743
+2019,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,7457
+2019,Mei,KALIMANTAN BARAT,Entikong,Darat,1290
+2019,Mei,KALIMANTAN BARAT,Aruk,Darat,939
+2019,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,1705
+2019,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,187062
+2019,Juni,BALI,Ngurah Rai,Udara,549483
+2019,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,190031
+2019,Juni,JAWA TIMUR,Juanda,Udara,22485
+2019,Juni,SUMATERA UTARA,Kualanamu,Udara,18935
+2019,Juni,JAWA BARAT,Husein Sastranegara,Udara,8652
+2019,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,6583
+2019,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6127
+2019,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,8339
+2019,Juni,SUMATERA BARAT,Minangkabau,Udara,5212
+2019,Juni,RIAU,Sultan Syarif Kasim II,Udara,2971
+2019,Juni,ACEH,Sultan Iskandar Muda,Udara,2051
+2019,Juni,JAWA TENGAH,Ahmad Yani,Udara,1872
+2019,Juni,KALIMANTAN BARAT,Supadio,Udara,1567
+2019,Juni,SULAWESI SELATAN,Hasanuddin,Udara,1385
+2019,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1725
+2019,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1649
+2019,Juni,KEP. RIAU,Batam,Laut,175001
+2019,Juni,KEP. RIAU,Tanjung Uban,Laut,61850
+2019,Juni,KEP. RIAU,Tanjung Pinang,Laut,18935
+2019,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,10118
+2019,Juni,BALI,Tanjung Benoa,Laut,33
+2019,Juni,JAWA TENGAH,Tanjung Mas,Laut,73
+2019,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,120142
+2019,Juni,PAPUA,Jayapura,Darat,4326
+2019,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,8718
+2019,Juni,KALIMANTAN BARAT,Entikong,Darat,2312
+2019,Juni,KALIMANTAN BARAT,Aruk,Darat,2081
+2019,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,1495
+2019,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,199952
+2019,Juli,BALI,Ngurah Rai,Udara,604310
+2019,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,267143
+2019,Juli,JAWA TIMUR,Juanda,Udara,24913
+2019,Juli,SUMATERA UTARA,Kualanamu,Udara,20929
+2019,Juli,JAWA BARAT,Husein Sastranegara,Udara,12581
+2019,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,10480
+2019,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5306
+2019,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,11203
+2019,Juli,SUMATERA BARAT,Minangkabau,Udara,5183
+2019,Juli,RIAU,Sultan Syarif Kasim II,Udara,2555
+2019,Juli,ACEH,Sultan Iskandar Muda,Udara,2823
+2019,Juli,JAWA TENGAH,Ahmad Yani,Udara,1851
+2019,Juli,KALIMANTAN BARAT,Supadio,Udara,1826
+2019,Juli,SULAWESI SELATAN,Hasanuddin,Udara,1473
+2019,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1231
+2019,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2063
+2019,Juli,KEP. RIAU,Batam,Laut,147690
+2019,Juli,KEP. RIAU,Tanjung Uban,Laut,49247
+2019,Juli,KEP. RIAU,Tanjung Pinang,Laut,11951
+2019,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,8425
+2019,Juli,BALI,Tanjung Benoa,Laut,13
+2019,Juli,JAWA TENGAH,Tanjung Mas,Laut,97
+2019,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,94006
+2019,Juli,PAPUA,Jayapura,Darat,5557
+2019,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,8961
+2019,Juli,KALIMANTAN BARAT,Entikong,Darat,1720
+2019,Juli,KALIMANTAN BARAT,Aruk,Darat,1061
+2019,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,1178
+2019,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,162397
+2019,Agustus,BALI,Ngurah Rai,Udara,602457
+2019,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,251596
+2019,Agustus,JAWA TIMUR,Juanda,Udara,29180
+2019,Agustus,SUMATERA UTARA,Kualanamu,Udara,24623
+2019,Agustus,JAWA BARAT,Husein Sastranegara,Udara,13984
+2019,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,12013
+2019,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6622
+2019,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,14171
+2019,Agustus,SUMATERA BARAT,Minangkabau,Udara,5967
+2019,Agustus,RIAU,Sultan Syarif Kasim II,Udara,3229
+2019,Agustus,ACEH,Sultan Iskandar Muda,Udara,2935
+2019,Agustus,JAWA TENGAH,Ahmad Yani,Udara,2035
+2019,Agustus,KALIMANTAN BARAT,Supadio,Udara,2127
+2019,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,1983
+2019,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1605
+2019,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2506
+2019,Agustus,KEP. RIAU,Batam,Laut,183401
+2019,Agustus,KEP. RIAU,Tanjung Uban,Laut,55638
+2019,Agustus,KEP. RIAU,Tanjung Pinang,Laut,15621
+2019,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,10273
+2019,Agustus,BALI,Tanjung Benoa,Laut,1679
+2019,Agustus,JAWA TENGAH,Tanjung Mas,Laut,0
+2019,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,101796
+2019,Agustus,PAPUA,Jayapura,Darat,5694
+2019,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,9492
+2019,Agustus,KALIMANTAN BARAT,Entikong,Darat,2265
+2019,Agustus,KALIMANTAN BARAT,Aruk,Darat,2081
+2019,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,1226
+2019,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,164069
+2019,September,BALI,Ngurah Rai,Udara,589984
+2019,September,DKI JAKARTA,Soekarno-Hatta,Udara,211775
+2019,September,JAWA TIMUR,Juanda,Udara,20462
+2019,September,SUMATERA UTARA,Kualanamu,Udara,18913
+2019,September,JAWA BARAT,Husein Sastranegara,Udara,12869
+2019,September,DI YOGYAKARTA,Adi Sucipto,Udara,10609
+2019,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,6552
+2019,September,SULAWESI UTARA,Sam Ratulangi,Udara,11874
+2019,September,SUMATERA BARAT,Minangkabau,Udara,4427
+2019,September,RIAU,Sultan Syarif Kasim II,Udara,2409
+2019,September,ACEH,Sultan Iskandar Muda,Udara,2371
+2019,September,JAWA TENGAH,Ahmad Yani,Udara,1946
+2019,September,KALIMANTAN BARAT,Supadio,Udara,2077
+2019,September,SULAWESI SELATAN,Hasanuddin,Udara,1503
+2019,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1287
+2019,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1351
+2019,September,KEP. RIAU,Batam,Laut,159331
+2019,September,KEP. RIAU,Tanjung Uban,Laut,50232
+2019,September,KEP. RIAU,Tanjung Pinang,Laut,12768
+2019,September,KEP. RIAU,Tanjung Balai Karimun,Laut,8245
+2019,September,BALI,Tanjung Benoa,Laut,28
+2019,September,JAWA TENGAH,Tanjung Mas,Laut,266
+2019,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,96772
+2019,September,PAPUA,Jayapura,Darat,4052
+2019,September,NUSA TENGGARA TIMUR,Atambua,Darat,7731
+2019,September,KALIMANTAN BARAT,Entikong,Darat,1704
+2019,September,KALIMANTAN BARAT,Aruk,Darat,1066
+2019,September,KALIMANTAN BARAT,Nanga Badau,Darat,981
+2019,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,145134
+2019,Oktober,BALI,Ngurah Rai,Udara,565966
+2019,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,189231
+2019,Oktober,JAWA TIMUR,Juanda,Udara,20895
+2019,Oktober,SUMATERA UTARA,Kualanamu,Udara,21518
+2019,Oktober,JAWA BARAT,Husein Sastranegara,Udara,13420
+2019,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,9535
+2019,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5711
+2019,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,10394
+2019,Oktober,SUMATERA BARAT,Minangkabau,Udara,5271
+2019,Oktober,RIAU,Sultan Syarif Kasim II,Udara,2677
+2019,Oktober,ACEH,Sultan Iskandar Muda,Udara,2560
+2019,Oktober,JAWA TENGAH,Ahmad Yani,Udara,2225
+2019,Oktober,KALIMANTAN BARAT,Supadio,Udara,1599
+2019,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,1439
+2019,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1183
+2019,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2172
+2019,Oktober,KEP. RIAU,Batam,Laut,158619
+2019,Oktober,KEP. RIAU,Tanjung Uban,Laut,47670
+2019,Oktober,KEP. RIAU,Tanjung Pinang,Laut,12406
+2019,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,8451
+2019,Oktober,BALI,Tanjung Benoa,Laut,2001
+2019,Oktober,JAWA TENGAH,Tanjung Mas,Laut,0
+2019,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,103172
+2019,Oktober,PAPUA,Jayapura,Darat,3874
+2019,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,8994
+2019,Oktober,KALIMANTAN BARAT,Entikong,Darat,1705
+2019,Oktober,KALIMANTAN BARAT,Aruk,Darat,763
+2019,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,911
+2019,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,142072
+2019,November,BALI,Ngurah Rai,Udara,492904
+2019,November,DKI JAKARTA,Soekarno-Hatta,Udara,183759
+2019,November,JAWA TIMUR,Juanda,Udara,20780
+2019,November,SUMATERA UTARA,Kualanamu,Udara,20798
+2019,November,JAWA BARAT,Husein Sastranegara,Udara,14616
+2019,November,DI YOGYAKARTA,Adi Sucipto,Udara,9218
+2019,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,4635
+2019,November,SULAWESI UTARA,Sam Ratulangi,Udara,9261
+2019,November,SUMATERA BARAT,Minangkabau,Udara,5013
+2019,November,RIAU,Sultan Syarif Kasim II,Udara,2917
+2019,November,ACEH,Sultan Iskandar Muda,Udara,2417
+2019,November,JAWA TENGAH,Ahmad Yani,Udara,2296
+2019,November,KALIMANTAN BARAT,Supadio,Udara,1811
+2019,November,SULAWESI SELATAN,Hasanuddin,Udara,1595
+2019,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1218
+2019,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,4006
+2019,November,KEP. RIAU,Batam,Laut,167288
+2019,November,KEP. RIAU,Tanjung Uban,Laut,52374
+2019,November,KEP. RIAU,Tanjung Pinang,Laut,12378
+2019,November,KEP. RIAU,Tanjung Balai Karimun,Laut,9209
+2019,November,BALI,Tanjung Benoa,Laut,5021
+2019,November,JAWA TENGAH,Tanjung Mas,Laut,2202
+2019,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,109792
+2019,November,PAPUA,Jayapura,Darat,5006
+2019,November,NUSA TENGGARA TIMUR,Atambua,Darat,9824
+2019,November,KALIMANTAN BARAT,Entikong,Darat,1691
+2019,November,KALIMANTAN BARAT,Aruk,Darat,1009
+2019,November,KALIMANTAN BARAT,Nanga Badau,Darat,954
+2019,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,126789
+2019,Desember,BALI,Ngurah Rai,Udara,544726
+2019,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,186723
+2019,Desember,JAWA TIMUR,Juanda,Udara,20546
+2019,Desember,SUMATERA UTARA,Kualanamu,Udara,22431
+2019,Desember,JAWA BARAT,Husein Sastranegara,Udara,14951
+2019,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,9795
+2019,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5499
+2019,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,10743
+2019,Desember,SUMATERA BARAT,Minangkabau,Udara,5180
+2019,Desember,RIAU,Sultan Syarif Kasim II,Udara,4042
+2019,Desember,ACEH,Sultan Iskandar Muda,Udara,4012
+2019,Desember,JAWA TENGAH,Ahmad Yani,Udara,2627
+2019,Desember,KALIMANTAN BARAT,Supadio,Udara,1527
+2019,Desember,SULAWESI SELATAN,Hasanuddin,Udara,1821
+2019,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,762
+2019,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,3593
+2019,Desember,KEP. RIAU,Batam,Laut,190232
+2019,Desember,KEP. RIAU,Tanjung Uban,Laut,59340
+2019,Desember,KEP. RIAU,Tanjung Pinang,Laut,16426
+2019,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,10916
+2019,Desember,BALI,Tanjung Benoa,Laut,7677
+2019,Desember,JAWA TENGAH,Tanjung Mas,Laut,5135
+2019,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,98769
+2019,Desember,PAPUA,Jayapura,Darat,6155
+2019,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,12561
+2019,Desember,KALIMANTAN BARAT,Entikong,Darat,3177
+2019,Desember,KALIMANTAN BARAT,Aruk,Darat,1708
+2019,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,1585
+2019,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,124408
+2018,Januari,BALI,Ngurah Rai,Udara,345191
+2018,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,210494
+2018,Januari,JAWA TIMUR,Juanda,Udara,21532
+2018,Januari,SUMATERA UTARA,Kualanamu,Udara,15656
+2018,Januari,JAWA BARAT,Husein Sastranegara,Udara,11463
+2018,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,10849
+2018,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5986
+2018,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,8507
+2018,Januari,SUMATERA BARAT,Minangkabau,Udara,3253
+2018,Januari,RIAU,Sultan Syarif Kasim II,Udara,2129
+2018,Januari,ACEH,Sultan Iskandar Muda,Udara,2802
+2018,Januari,JAWA TENGAH,Ahmad Yani,Udara,1680
+2018,Januari,KALIMANTAN BARAT,Supadio,Udara,1284
+2018,Januari,SULAWESI SELATAN,Hasanuddin,Udara,832
+2018,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,727
+2018,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,792
+2018,Januari,KEP. RIAU,Batam,Laut,115590
+2018,Januari,KEP. RIAU,Tanjung Uban,Laut,26993
+2018,Januari,KEP. RIAU,Tanjung Pinang,Laut,8753
+2018,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,5689
+2018,Januari,BALI,Tanjung Benoa,Laut,4626
+2018,Januari,JAWA TENGAH,Tanjung Mas,Laut,2020
+2018,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,56373
+2018,Januari,PAPUA,Jayapura,Darat,12616
+2018,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,4601
+2018,Januari,KALIMANTAN BARAT,Entikong,Darat,1534
+2018,Januari,KALIMANTAN BARAT,Aruk,Darat,377
+2018,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,662
+2018,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,214828
+2018,Februari,BALI,Ngurah Rai,Udara,443805
+2018,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,201981
+2018,Februari,JAWA TIMUR,Juanda,Udara,19621
+2018,Februari,SUMATERA UTARA,Kualanamu,Udara,17740
+2018,Februari,JAWA BARAT,Husein Sastranegara,Udara,12212
+2018,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,12602
+2018,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,5800
+2018,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,10794
+2018,Februari,SUMATERA BARAT,Minangkabau,Udara,4459
+2018,Februari,RIAU,Sultan Syarif Kasim II,Udara,1942
+2018,Februari,ACEH,Sultan Iskandar Muda,Udara,2915
+2018,Februari,JAWA TENGAH,Ahmad Yani,Udara,1724
+2018,Februari,KALIMANTAN BARAT,Supadio,Udara,2356
+2018,Februari,SULAWESI SELATAN,Hasanuddin,Udara,1004
+2018,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,788
+2018,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,697
+2018,Februari,KEP. RIAU,Batam,Laut,155671
+2018,Februari,KEP. RIAU,Tanjung Uban,Laut,31758
+2018,Februari,KEP. RIAU,Tanjung Pinang,Laut,10704
+2018,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,7832
+2018,Februari,BALI,Tanjung Benoa,Laut,8616
+2018,Februari,JAWA TENGAH,Tanjung Mas,Laut,3191
+2018,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,43272
+2018,Februari,PAPUA,Jayapura,Darat,11696
+2018,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,3799
+2018,Februari,KALIMANTAN BARAT,Entikong,Darat,2100
+2018,Februari,KALIMANTAN BARAT,Aruk,Darat,928
+2018,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,694
+2018,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,176802
+2018,Maret,BALI,Ngurah Rai,Udara,484846
+2018,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,244467
+2018,Maret,JAWA TIMUR,Juanda,Udara,26391
+2018,Maret,SUMATERA UTARA,Kualanamu,Udara,21693
+2018,Maret,JAWA BARAT,Husein Sastranegara,Udara,15657
+2018,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,14055
+2018,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,9880
+2018,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,10114
+2018,Maret,SUMATERA BARAT,Minangkabau,Udara,5057
+2018,Maret,RIAU,Sultan Syarif Kasim II,Udara,2510
+2018,Maret,ACEH,Sultan Iskandar Muda,Udara,3402
+2018,Maret,JAWA TENGAH,Ahmad Yani,Udara,2020
+2018,Maret,KALIMANTAN BARAT,Supadio,Udara,2416
+2018,Maret,SULAWESI SELATAN,Hasanuddin,Udara,1099
+2018,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1015
+2018,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1013
+2018,Maret,KEP. RIAU,Batam,Laut,175194
+2018,Maret,KEP. RIAU,Tanjung Uban,Laut,37364
+2018,Maret,KEP. RIAU,Tanjung Pinang,Laut,13261
+2018,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,8337
+2018,Maret,BALI,Tanjung Benoa,Laut,4254
+2018,Maret,JAWA TENGAH,Tanjung Mas,Laut,6988
+2018,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,59461
+2018,Maret,PAPUA,Jayapura,Darat,10331
+2018,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,5250
+2018,Maret,KALIMANTAN BARAT,Entikong,Darat,2376
+2018,Maret,KALIMANTAN BARAT,Aruk,Darat,766
+2018,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,661
+2018,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,193548
+2018,April,BALI,Ngurah Rai,Udara,516143
+2018,April,DKI JAKARTA,Soekarno-Hatta,Udara,224978
+2018,April,JAWA TIMUR,Juanda,Udara,26306
+2018,April,SUMATERA UTARA,Kualanamu,Udara,18538
+2018,April,JAWA BARAT,Husein Sastranegara,Udara,14163
+2018,April,DI YOGYAKARTA,Adi Sucipto,Udara,11435
+2018,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,10644
+2018,April,SULAWESI UTARA,Sam Ratulangi,Udara,10201
+2018,April,SUMATERA BARAT,Minangkabau,Udara,4293
+2018,April,RIAU,Sultan Syarif Kasim II,Udara,2044
+2018,April,ACEH,Sultan Iskandar Muda,Udara,2941
+2018,April,JAWA TENGAH,Ahmad Yani,Udara,2232
+2018,April,KALIMANTAN BARAT,Supadio,Udara,1902
+2018,April,SULAWESI SELATAN,Hasanuddin,Udara,1077
+2018,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,861
+2018,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,976
+2018,April,KEP. RIAU,Batam,Laut,144104
+2018,April,KEP. RIAU,Tanjung Uban,Laut,32237
+2018,April,KEP. RIAU,Tanjung Pinang,Laut,10449
+2018,April,KEP. RIAU,Tanjung Balai Karimun,Laut,7328
+2018,April,BALI,Tanjung Benoa,Laut,634
+2018,April,JAWA TENGAH,Tanjung Mas,Laut,437
+2018,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,41644
+2018,April,PAPUA,Jayapura,Darat,10641
+2018,April,NUSA TENGGARA TIMUR,Atambua,Darat,5571
+2018,April,KALIMANTAN BARAT,Entikong,Darat,1277
+2018,April,KALIMANTAN BARAT,Aruk,Darat,587
+2018,April,KALIMANTAN BARAT,Nanga Badau,Darat,661
+2018,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,198017
+2018,Mei,BALI,Ngurah Rai,Udara,526281
+2018,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,191631
+2018,Mei,JAWA TIMUR,Juanda,Udara,24420
+2018,Mei,SUMATERA UTARA,Kualanamu,Udara,14624
+2018,Mei,JAWA BARAT,Husein Sastranegara,Udara,10453
+2018,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,9584
+2018,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,7512
+2018,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,9405
+2018,Mei,SUMATERA BARAT,Minangkabau,Udara,3002
+2018,Mei,RIAU,Sultan Syarif Kasim II,Udara,1666
+2018,Mei,ACEH,Sultan Iskandar Muda,Udara,1717
+2018,Mei,JAWA TENGAH,Ahmad Yani,Udara,1612
+2018,Mei,KALIMANTAN BARAT,Supadio,Udara,1473
+2018,Mei,SULAWESI SELATAN,Hasanuddin,Udara,661
+2018,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,716
+2018,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,695
+2018,Mei,KEP. RIAU,Batam,Laut,142157
+2018,Mei,KEP. RIAU,Tanjung Uban,Laut,33833
+2018,Mei,KEP. RIAU,Tanjung Pinang,Laut,11268
+2018,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,5295
+2018,Mei,BALI,Tanjung Benoa,Laut,2231
+2018,Mei,JAWA TENGAH,Tanjung Mas,Laut,137
+2018,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,35197
+2018,Mei,PAPUA,Jayapura,Darat,7542
+2018,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,6283
+2018,Mei,KALIMANTAN BARAT,Entikong,Darat,1827
+2018,Mei,KALIMANTAN BARAT,Aruk,Darat,1051
+2018,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,1114
+2018,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,189318
+2018,Juni,BALI,Ngurah Rai,Udara,540462
+2018,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,182887
+2018,Juni,JAWA TIMUR,Juanda,Udara,27329
+2018,Juni,SUMATERA UTARA,Kualanamu,Udara,18153
+2018,Juni,JAWA BARAT,Husein Sastranegara,Udara,6401
+2018,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,7547
+2018,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,8859
+2018,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,10107
+2018,Juni,SUMATERA BARAT,Minangkabau,Udara,4549
+2018,Juni,RIAU,Sultan Syarif Kasim II,Udara,2838
+2018,Juni,ACEH,Sultan Iskandar Muda,Udara,1468
+2018,Juni,JAWA TENGAH,Ahmad Yani,Udara,1647
+2018,Juni,KALIMANTAN BARAT,Supadio,Udara,1652
+2018,Juni,SULAWESI SELATAN,Hasanuddin,Udara,1216
+2018,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1311
+2018,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,979
+2018,Juni,KEP. RIAU,Batam,Laut,167398
+2018,Juni,KEP. RIAU,Tanjung Uban,Laut,40296
+2018,Juni,KEP. RIAU,Tanjung Pinang,Laut,12815
+2018,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,7885
+2018,Juni,BALI,Tanjung Benoa,Laut,4088
+2018,Juni,JAWA TENGAH,Tanjung Mas,Laut,0
+2018,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,56830
+2018,Juni,PAPUA,Jayapura,Darat,5864
+2018,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,7047
+2018,Juni,KALIMANTAN BARAT,Entikong,Darat,2756
+2018,Juni,KALIMANTAN BARAT,Aruk,Darat,2200
+2018,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,1331
+2018,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,196759
+2018,Juli,BALI,Ngurah Rai,Udara,624263
+2018,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,322808
+2018,Juli,JAWA TIMUR,Juanda,Udara,33390
+2018,Juli,SUMATERA UTARA,Kualanamu,Udara,22330
+2018,Juli,JAWA BARAT,Husein Sastranegara,Udara,12751
+2018,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,13642
+2018,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,13980
+2018,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,11875
+2018,Juli,SUMATERA BARAT,Minangkabau,Udara,5100
+2018,Juli,RIAU,Sultan Syarif Kasim II,Udara,2417
+2018,Juli,ACEH,Sultan Iskandar Muda,Udara,3297
+2018,Juli,JAWA TENGAH,Ahmad Yani,Udara,2114
+2018,Juli,KALIMANTAN BARAT,Supadio,Udara,1639
+2018,Juli,SULAWESI SELATAN,Hasanuddin,Udara,1566
+2018,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1185
+2018,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1028
+2018,Juli,KEP. RIAU,Batam,Laut,144235
+2018,Juli,KEP. RIAU,Tanjung Uban,Laut,52228
+2018,Juli,KEP. RIAU,Tanjung Pinang,Laut,10661
+2018,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,6397
+2018,Juli,BALI,Tanjung Benoa,Laut,29
+2018,Juli,JAWA TENGAH,Tanjung Mas,Laut,0
+2018,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,38908
+2018,Juli,PAPUA,Jayapura,Darat,6643
+2018,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,6508
+2018,Juli,KALIMANTAN BARAT,Entikong,Darat,1453
+2018,Juli,KALIMANTAN BARAT,Aruk,Darat,825
+2018,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,849
+2018,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,205110
+2018,Agustus,BALI,Ngurah Rai,Udara,571380
+2018,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,308698
+2018,Agustus,JAWA TIMUR,Juanda,Udara,34166
+2018,Agustus,SUMATERA UTARA,Kualanamu,Udara,23753
+2018,Agustus,JAWA BARAT,Husein Sastranegara,Udara,13697
+2018,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,13468
+2018,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,4308
+2018,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,15448
+2018,Agustus,SUMATERA BARAT,Minangkabau,Udara,5602
+2018,Agustus,RIAU,Sultan Syarif Kasim II,Udara,2977
+2018,Agustus,ACEH,Sultan Iskandar Muda,Udara,3087
+2018,Agustus,JAWA TENGAH,Ahmad Yani,Udara,2650
+2018,Agustus,KALIMANTAN BARAT,Supadio,Udara,1992
+2018,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,1626
+2018,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,2263
+2018,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,939
+2018,Agustus,KEP. RIAU,Batam,Laut,159218
+2018,Agustus,KEP. RIAU,Tanjung Uban,Laut,57643
+2018,Agustus,KEP. RIAU,Tanjung Pinang,Laut,12310
+2018,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,6913
+2018,Agustus,BALI,Tanjung Benoa,Laut,1315
+2018,Agustus,JAWA TENGAH,Tanjung Mas,Laut,0
+2018,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,43469
+2018,Agustus,PAPUA,Jayapura,Darat,7706
+2018,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,7912
+2018,Agustus,KALIMANTAN BARAT,Entikong,Darat,1821
+2018,Agustus,KALIMANTAN BARAT,Aruk,Darat,1516
+2018,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,1121
+2018,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,204023
+2018,September,BALI,Ngurah Rai,Udara,555888
+2018,September,DKI JAKARTA,Soekarno-Hatta,Udara,250058
+2018,September,JAWA TIMUR,Juanda,Udara,24835
+2018,September,SUMATERA UTARA,Kualanamu,Udara,19851
+2018,September,JAWA BARAT,Husein Sastranegara,Udara,13328
+2018,September,DI YOGYAKARTA,Adi Sucipto,Udara,12553
+2018,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,3866
+2018,September,SULAWESI UTARA,Sam Ratulangi,Udara,12730
+2018,September,SUMATERA BARAT,Minangkabau,Udara,5094
+2018,September,RIAU,Sultan Syarif Kasim II,Udara,2321
+2018,September,ACEH,Sultan Iskandar Muda,Udara,3074
+2018,September,JAWA TENGAH,Ahmad Yani,Udara,2117
+2018,September,KALIMANTAN BARAT,Supadio,Udara,2254
+2018,September,SULAWESI SELATAN,Hasanuddin,Udara,1281
+2018,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1160
+2018,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,916
+2018,September,KEP. RIAU,Batam,Laut,153944
+2018,September,KEP. RIAU,Tanjung Uban,Laut,53214
+2018,September,KEP. RIAU,Tanjung Pinang,Laut,12530
+2018,September,KEP. RIAU,Tanjung Balai Karimun,Laut,7292
+2018,September,BALI,Tanjung Benoa,Laut,15
+2018,September,JAWA TENGAH,Tanjung Mas,Laut,0
+2018,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,37527
+2018,September,PAPUA,Jayapura,Darat,11220
+2018,September,NUSA TENGGARA TIMUR,Atambua,Darat,8575
+2018,September,KALIMANTAN BARAT,Entikong,Darat,1608
+2018,September,KALIMANTAN BARAT,Aruk,Darat,1143
+2018,September,KALIMANTAN BARAT,Nanga Badau,Darat,1097
+2018,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,171452
+2018,Oktober,BALI,Ngurah Rai,Udara,515181
+2018,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,244775
+2018,Oktober,JAWA TIMUR,Juanda,Udara,25938
+2018,Oktober,SUMATERA UTARA,Kualanamu,Udara,15744
+2018,Oktober,JAWA BARAT,Husein Sastranegara,Udara,13850
+2018,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,11613
+2018,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,3515
+2018,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,8343
+2018,Oktober,SUMATERA BARAT,Minangkabau,Udara,4055
+2018,Oktober,RIAU,Sultan Syarif Kasim II,Udara,2654
+2018,Oktober,ACEH,Sultan Iskandar Muda,Udara,2058
+2018,Oktober,JAWA TENGAH,Ahmad Yani,Udara,2022
+2018,Oktober,KALIMANTAN BARAT,Supadio,Udara,1697
+2018,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,1187
+2018,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1167
+2018,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1441
+2018,Oktober,KEP. RIAU,Batam,Laut,141337
+2018,Oktober,KEP. RIAU,Tanjung Uban,Laut,47742
+2018,Oktober,KEP. RIAU,Tanjung Pinang,Laut,10759
+2018,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,5981
+2018,Oktober,BALI,Tanjung Benoa,Laut,2030
+2018,Oktober,JAWA TENGAH,Tanjung Mas,Laut,133
+2018,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,35919
+2018,Oktober,PAPUA,Jayapura,Darat,14147
+2018,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,8246
+2018,Oktober,KALIMANTAN BARAT,Entikong,Darat,1235
+2018,Oktober,KALIMANTAN BARAT,Aruk,Darat,745
+2018,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,1098
+2018,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,166993
+2018,November,BALI,Ngurah Rai,Udara,406679
+2018,November,DKI JAKARTA,Soekarno-Hatta,Udara,206820
+2018,November,JAWA TIMUR,Juanda,Udara,29992
+2018,November,SUMATERA UTARA,Kualanamu,Udara,21538
+2018,November,JAWA BARAT,Husein Sastranegara,Udara,14280
+2018,November,DI YOGYAKARTA,Adi Sucipto,Udara,10661
+2018,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,2306
+2018,November,SULAWESI UTARA,Sam Ratulangi,Udara,5735
+2018,November,SUMATERA BARAT,Minangkabau,Udara,5118
+2018,November,RIAU,Sultan Syarif Kasim II,Udara,3265
+2018,November,ACEH,Sultan Iskandar Muda,Udara,1137
+2018,November,JAWA TENGAH,Ahmad Yani,Udara,1844
+2018,November,KALIMANTAN BARAT,Supadio,Udara,2352
+2018,November,SULAWESI SELATAN,Hasanuddin,Udara,1171
+2018,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1238
+2018,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2162
+2018,November,KEP. RIAU,Batam,Laut,155283
+2018,November,KEP. RIAU,Tanjung Uban,Laut,47833
+2018,November,KEP. RIAU,Tanjung Pinang,Laut,11073
+2018,November,KEP. RIAU,Tanjung Balai Karimun,Laut,6749
+2018,November,BALI,Tanjung Benoa,Laut,46
+2018,November,JAWA TENGAH,Tanjung Mas,Laut,4686
+2018,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,34162
+2018,November,PAPUA,Jayapura,Darat,2467
+2018,November,NUSA TENGGARA TIMUR,Atambua,Darat,8207
+2018,November,KALIMANTAN BARAT,Entikong,Darat,1585
+2018,November,KALIMANTAN BARAT,Aruk,Darat,1066
+2018,November,KALIMANTAN BARAT,Nanga Badau,Darat,1034
+2018,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,166994
+2018,Desember,BALI,Ngurah Rai,Udara,495641
+2018,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,224989
+2018,Desember,JAWA TIMUR,Juanda,Udara,26609
+2018,Desember,SUMATERA UTARA,Kualanamu,Udara,19966
+2018,Desember,JAWA BARAT,Husein Sastranegara,Udara,17311
+2018,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,10813
+2018,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,3151
+2018,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,8845
+2018,Desember,SUMATERA BARAT,Minangkabau,Udara,4801
+2018,Desember,RIAU,Sultan Syarif Kasim II,Udara,3013
+2018,Desember,ACEH,Sultan Iskandar Muda,Udara,1315
+2018,Desember,JAWA TENGAH,Ahmad Yani,Udara,1930
+2018,Desember,KALIMANTAN BARAT,Supadio,Udara,2033
+2018,Desember,SULAWESI SELATAN,Hasanuddin,Udara,1406
+2018,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1431
+2018,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2381
+2018,Desember,KEP. RIAU,Batam,Laut,233153
+2018,Desember,KEP. RIAU,Tanjung Uban,Laut,61258
+2018,Desember,KEP. RIAU,Tanjung Pinang,Laut,16020
+2018,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,9020
+2018,Desember,BALI,Tanjung Benoa,Laut,3178
+2018,Desember,JAWA TENGAH,Tanjung Mas,Laut,2315
+2018,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,45685
+2018,Desember,PAPUA,Jayapura,Darat,3202
+2018,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,13915
+2018,Desember,KALIMANTAN BARAT,Entikong,Darat,3641
+2018,Desember,KALIMANTAN BARAT,Aruk,Darat,1125
+2018,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,1826
+2018,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,185581
+2017,Januari,BALI,Ngurah Rai,Udara,455930
+2017,Januari,DKI JAKARTA,Soekarno-Hatta,Udara,203067
+2017,Januari,JAWA TIMUR,Juanda,Udara,17279
+2017,Januari,SUMATERA UTARA,Kualanamu,Udara,18457
+2017,Januari,JAWA BARAT,Husein Sastranegara,Udara,8518
+2017,Januari,DI YOGYAKARTA,Adi Sucipto,Udara,9192
+2017,Januari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,9394
+2017,Januari,SULAWESI UTARA,Sam Ratulangi,Udara,7697
+2017,Januari,SUMATERA BARAT,Minangkabau,Udara,4042
+2017,Januari,RIAU,Sultan Syarif Kasim II,Udara,3274
+2017,Januari,ACEH,Sultan Iskandar Muda,Udara,2852
+2017,Januari,JAWA TENGAH,Ahmad Yani,Udara,1548
+2017,Januari,KALIMANTAN BARAT,Supadio,Udara,858
+2017,Januari,SULAWESI SELATAN,Hasanuddin,Udara,1812
+2017,Januari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,106
+2017,Januari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1686
+2017,Januari,KEP. RIAU,Batam,Laut,135046
+2017,Januari,KEP. RIAU,Tanjung Uban,Laut,26778
+2017,Januari,KEP. RIAU,Tanjung Pinang,Laut,10814
+2017,Januari,KEP. RIAU,Tanjung Balai Karimun,Laut,8175
+2017,Januari,BALI,Tanjung Benoa,Laut,8143
+2017,Januari,JAWA TENGAH,Tanjung Mas,Laut,179
+2017,Januari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,39428
+2017,Januari,PAPUA,Jayapura,Darat,12417
+2017,Januari,NUSA TENGGARA TIMUR,Atambua,Darat,474
+2017,Januari,KALIMANTAN BARAT,Entikong,Darat,2091
+2017,Januari,KALIMANTAN BARAT,Aruk,Darat,414
+2017,Januari,KALIMANTAN BARAT,Nanga Badau,Darat,810
+2017,Januari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,110656
+2017,Februari,BALI,Ngurah Rai,Udara,448157
+2017,Februari,DKI JAKARTA,Soekarno-Hatta,Udara,191933
+2017,Februari,JAWA TIMUR,Juanda,Udara,11998
+2017,Februari,SUMATERA UTARA,Kualanamu,Udara,1568
+2017,Februari,JAWA BARAT,Husein Sastranegara,Udara,13257
+2017,Februari,DI YOGYAKARTA,Adi Sucipto,Udara,8963
+2017,Februari,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,8775
+2017,Februari,SULAWESI UTARA,Sam Ratulangi,Udara,5149
+2017,Februari,SUMATERA BARAT,Minangkabau,Udara,4066
+2017,Februari,RIAU,Sultan Syarif Kasim II,Udara,2909
+2017,Februari,ACEH,Sultan Iskandar Muda,Udara,3254
+2017,Februari,JAWA TENGAH,Ahmad Yani,Udara,1354
+2017,Februari,KALIMANTAN BARAT,Supadio,Udara,626
+2017,Februari,SULAWESI SELATAN,Hasanuddin,Udara,1263
+2017,Februari,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1156
+2017,Februari,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1888
+2017,Februari,KEP. RIAU,Batam,Laut,100329
+2017,Februari,KEP. RIAU,Tanjung Uban,Laut,21888
+2017,Februari,KEP. RIAU,Tanjung Pinang,Laut,6249
+2017,Februari,KEP. RIAU,Tanjung Balai Karimun,Laut,6022
+2017,Februari,BALI,Tanjung Benoa,Laut,5799
+2017,Februari,JAWA TENGAH,Tanjung Mas,Laut,5166
+2017,Februari,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,41216
+2017,Februari,PAPUA,Jayapura,Darat,7176
+2017,Februari,NUSA TENGGARA TIMUR,Atambua,Darat,4017
+2017,Februari,KALIMANTAN BARAT,Entikong,Darat,1354
+2017,Februari,KALIMANTAN BARAT,Aruk,Darat,511
+2017,Februari,KALIMANTAN BARAT,Nanga Badau,Darat,551
+2017,Februari,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,102682
+2017,Maret,BALI,Ngurah Rai,Udara,424134
+2017,Maret,DKI JAKARTA,Soekarno-Hatta,Udara,222497
+2017,Maret,JAWA TIMUR,Juanda,Udara,15844
+2017,Maret,SUMATERA UTARA,Kualanamu,Udara,20767
+2017,Maret,JAWA BARAT,Husein Sastranegara,Udara,17256
+2017,Maret,DI YOGYAKARTA,Adi Sucipto,Udara,11807
+2017,Maret,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,11305
+2017,Maret,SULAWESI UTARA,Sam Ratulangi,Udara,5168
+2017,Maret,SUMATERA BARAT,Minangkabau,Udara,4992
+2017,Maret,RIAU,Sultan Syarif Kasim II,Udara,3612
+2017,Maret,ACEH,Sultan Iskandar Muda,Udara,3375
+2017,Maret,JAWA TENGAH,Ahmad Yani,Udara,1815
+2017,Maret,KALIMANTAN BARAT,Supadio,Udara,899
+2017,Maret,SULAWESI SELATAN,Hasanuddin,Udara,1530
+2017,Maret,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1468
+2017,Maret,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2681
+2017,Maret,KEP. RIAU,Batam,Laut,132551
+2017,Maret,KEP. RIAU,Tanjung Uban,Laut,25445
+2017,Maret,KEP. RIAU,Tanjung Pinang,Laut,7849
+2017,Maret,KEP. RIAU,Tanjung Balai Karimun,Laut,7526
+2017,Maret,BALI,Tanjung Benoa,Laut,2489
+2017,Maret,JAWA TENGAH,Tanjung Mas,Laut,1397
+2017,Maret,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,43069
+2017,Maret,PAPUA,Jayapura,Darat,6523
+2017,Maret,NUSA TENGGARA TIMUR,Atambua,Darat,3768
+2017,Maret,KALIMANTAN BARAT,Entikong,Darat,2209
+2017,Maret,KALIMANTAN BARAT,Aruk,Darat,433
+2017,Maret,KALIMANTAN BARAT,Nanga Badau,Darat,549
+2017,Maret,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,76819
+2017,April,BALI,Ngurah Rai,Udara,477408
+2017,April,DKI JAKARTA,Soekarno-Hatta,Udara,228611
+2017,April,JAWA TIMUR,Juanda,Udara,21461
+2017,April,SUMATERA UTARA,Kualanamu,Udara,19273
+2017,April,JAWA BARAT,Husein Sastranegara,Udara,16029
+2017,April,DI YOGYAKARTA,Adi Sucipto,Udara,13224
+2017,April,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,13204
+2017,April,SULAWESI UTARA,Sam Ratulangi,Udara,5927
+2017,April,SUMATERA BARAT,Minangkabau,Udara,4621
+2017,April,RIAU,Sultan Syarif Kasim II,Udara,3554
+2017,April,ACEH,Sultan Iskandar Muda,Udara,2947
+2017,April,JAWA TENGAH,Ahmad Yani,Udara,1647
+2017,April,KALIMANTAN BARAT,Supadio,Udara,655
+2017,April,SULAWESI SELATAN,Hasanuddin,Udara,1179
+2017,April,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1154
+2017,April,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2033
+2017,April,KEP. RIAU,Batam,Laut,139361
+2017,April,KEP. RIAU,Tanjung Uban,Laut,28410
+2017,April,KEP. RIAU,Tanjung Pinang,Laut,9193
+2017,April,KEP. RIAU,Tanjung Balai Karimun,Laut,7902
+2017,April,BALI,Tanjung Benoa,Laut,3126
+2017,April,JAWA TENGAH,Tanjung Mas,Laut,2587
+2017,April,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,42959
+2017,April,PAPUA,Jayapura,Darat,10078
+2017,April,NUSA TENGGARA TIMUR,Atambua,Darat,5843
+2017,April,KALIMANTAN BARAT,Entikong,Darat,1720
+2017,April,KALIMANTAN BARAT,Aruk,Darat,539
+2017,April,KALIMANTAN BARAT,Nanga Badau,Darat,528
+2017,April,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,106213
+2017,Mei,BALI,Ngurah Rai,Udara,488698
+2017,Mei,DKI JAKARTA,Soekarno-Hatta,Udara,220817
+2017,Mei,JAWA TIMUR,Juanda,Udara,20447
+2017,Mei,SUMATERA UTARA,Kualanamu,Udara,19013
+2017,Mei,JAWA BARAT,Husein Sastranegara,Udara,15275
+2017,Mei,DI YOGYAKARTA,Adi Sucipto,Udara,11608
+2017,Mei,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,11792
+2017,Mei,SULAWESI UTARA,Sam Ratulangi,Udara,5632
+2017,Mei,SUMATERA BARAT,Minangkabau,Udara,4167
+2017,Mei,RIAU,Sultan Syarif Kasim II,Udara,3578
+2017,Mei,ACEH,Sultan Iskandar Muda,Udara,2430
+2017,Mei,JAWA TENGAH,Ahmad Yani,Udara,1891
+2017,Mei,KALIMANTAN BARAT,Supadio,Udara,812
+2017,Mei,SULAWESI SELATAN,Hasanuddin,Udara,1131
+2017,Mei,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1010
+2017,Mei,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1640
+2017,Mei,KEP. RIAU,Batam,Laut,117372
+2017,Mei,KEP. RIAU,Tanjung Uban,Laut,25496
+2017,Mei,KEP. RIAU,Tanjung Pinang,Laut,7277
+2017,Mei,KEP. RIAU,Tanjung Balai Karimun,Laut,6627
+2017,Mei,BALI,Tanjung Benoa,Laut,3153
+2017,Mei,JAWA TENGAH,Tanjung Mas,Laut,1378
+2017,Mei,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,47890
+2017,Mei,PAPUA,Jayapura,Darat,10042
+2017,Mei,NUSA TENGGARA TIMUR,Atambua,Darat,2096
+2017,Mei,KALIMANTAN BARAT,Entikong,Darat,1935
+2017,Mei,KALIMANTAN BARAT,Aruk,Darat,438
+2017,Mei,KALIMANTAN BARAT,Nanga Badau,Darat,808
+2017,Mei,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,114135
+2017,Juni,BALI,Ngurah Rai,Udara,505976
+2017,Juni,DKI JAKARTA,Soekarno-Hatta,Udara,174669
+2017,Juni,JAWA TIMUR,Juanda,Udara,19658
+2017,Juni,SUMATERA UTARA,Kualanamu,Udara,18464
+2017,Juni,JAWA BARAT,Husein Sastranegara,Udara,8174
+2017,Juni,DI YOGYAKARTA,Adi Sucipto,Udara,7559
+2017,Juni,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,9201
+2017,Juni,SULAWESI UTARA,Sam Ratulangi,Udara,4708
+2017,Juni,SUMATERA BARAT,Minangkabau,Udara,3022
+2017,Juni,RIAU,Sultan Syarif Kasim II,Udara,3504
+2017,Juni,ACEH,Sultan Iskandar Muda,Udara,1528
+2017,Juni,JAWA TENGAH,Ahmad Yani,Udara,1541
+2017,Juni,KALIMANTAN BARAT,Supadio,Udara,1642
+2017,Juni,SULAWESI SELATAN,Hasanuddin,Udara,1240
+2017,Juni,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1136
+2017,Juni,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1448
+2017,Juni,KEP. RIAU,Batam,Laut,130541
+2017,Juni,KEP. RIAU,Tanjung Uban,Laut,34726
+2017,Juni,KEP. RIAU,Tanjung Pinang,Laut,8702
+2017,Juni,KEP. RIAU,Tanjung Balai Karimun,Laut,6433
+2017,Juni,BALI,Tanjung Benoa,Laut,497
+2017,Juni,JAWA TENGAH,Tanjung Mas,Laut,964
+2017,Juni,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,51902
+2017,Juni,PAPUA,Jayapura,Darat,10488
+2017,Juni,NUSA TENGGARA TIMUR,Atambua,Darat,6238
+2017,Juni,KALIMANTAN BARAT,Entikong,Darat,2157
+2017,Juni,KALIMANTAN BARAT,Aruk,Darat,1460
+2017,Juni,KALIMANTAN BARAT,Nanga Badau,Darat,858
+2017,Juni,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,125565
+2017,Juli,BALI,Ngurah Rai,Udara,594238
+2017,Juli,DKI JAKARTA,Soekarno-Hatta,Udara,297360
+2017,Juli,JAWA TIMUR,Juanda,Udara,25252
+2017,Juli,SUMATERA UTARA,Kualanamu,Udara,20437
+2017,Juli,JAWA BARAT,Husein Sastranegara,Udara,11967
+2017,Juli,DI YOGYAKARTA,Adi Sucipto,Udara,14181
+2017,Juli,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,12468
+2017,Juli,SULAWESI UTARA,Sam Ratulangi,Udara,7330
+2017,Juli,SUMATERA BARAT,Minangkabau,Udara,4157
+2017,Juli,RIAU,Sultan Syarif Kasim II,Udara,3543
+2017,Juli,ACEH,Sultan Iskandar Muda,Udara,2297
+2017,Juli,JAWA TENGAH,Ahmad Yani,Udara,2294
+2017,Juli,KALIMANTAN BARAT,Supadio,Udara,1731
+2017,Juli,SULAWESI SELATAN,Hasanuddin,Udara,2132
+2017,Juli,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1220
+2017,Juli,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2004
+2017,Juli,KEP. RIAU,Batam,Laut,122869
+2017,Juli,KEP. RIAU,Tanjung Uban,Laut,32234
+2017,Juli,KEP. RIAU,Tanjung Pinang,Laut,9793
+2017,Juli,KEP. RIAU,Tanjung Balai Karimun,Laut,6136
+2017,Juli,BALI,Tanjung Benoa,Laut,164
+2017,Juli,JAWA TENGAH,Tanjung Mas,Laut,1059
+2017,Juli,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,54724
+2017,Juli,PAPUA,Jayapura,Darat,9053
+2017,Juli,NUSA TENGGARA TIMUR,Atambua,Darat,5476
+2017,Juli,KALIMANTAN BARAT,Entikong,Darat,1117
+2017,Juli,KALIMANTAN BARAT,Aruk,Darat,1087
+2017,Juli,KALIMANTAN BARAT,Nanga Badau,Darat,610
+2017,Juli,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,123658
+2017,Agustus,BALI,Ngurah Rai,Udara,601553
+2017,Agustus,DKI JAKARTA,Soekarno-Hatta,Udara,289000
+2017,Agustus,JAWA TIMUR,Juanda,Udara,25330
+2017,Agustus,SUMATERA UTARA,Kualanamu,Udara,25201
+2017,Agustus,JAWA BARAT,Husein Sastranegara,Udara,15063
+2017,Agustus,DI YOGYAKARTA,Adi Sucipto,Udara,15786
+2017,Agustus,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,12207
+2017,Agustus,SULAWESI UTARA,Sam Ratulangi,Udara,8906
+2017,Agustus,SUMATERA BARAT,Minangkabau,Udara,5215
+2017,Agustus,RIAU,Sultan Syarif Kasim II,Udara,3590
+2017,Agustus,ACEH,Sultan Iskandar Muda,Udara,2627
+2017,Agustus,JAWA TENGAH,Ahmad Yani,Udara,2625
+2017,Agustus,KALIMANTAN BARAT,Supadio,Udara,2307
+2017,Agustus,SULAWESI SELATAN,Hasanuddin,Udara,1743
+2017,Agustus,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1418
+2017,Agustus,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1904
+2017,Agustus,KEP. RIAU,Batam,Laut,124044
+2017,Agustus,KEP. RIAU,Tanjung Uban,Laut,37199
+2017,Agustus,KEP. RIAU,Tanjung Pinang,Laut,11616
+2017,Agustus,KEP. RIAU,Tanjung Balai Karimun,Laut,6620
+2017,Agustus,BALI,Tanjung Benoa,Laut,1988
+2017,Agustus,JAWA TENGAH,Tanjung Mas,Laut,1163
+2017,Agustus,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,52681
+2017,Agustus,PAPUA,Jayapura,Darat,9043
+2017,Agustus,NUSA TENGGARA TIMUR,Atambua,Darat,6120
+2017,Agustus,KALIMANTAN BARAT,Entikong,Darat,1255
+2017,Agustus,KALIMANTAN BARAT,Aruk,Darat,814
+2017,Agustus,KALIMANTAN BARAT,Nanga Badau,Darat,933
+2017,Agustus,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,125292
+2017,September,BALI,Ngurah Rai,Udara,551968
+2017,September,DKI JAKARTA,Soekarno-Hatta,Udara,227687
+2017,September,JAWA TIMUR,Juanda,Udara,21890
+2017,September,SUMATERA UTARA,Kualanamu,Udara,19150
+2017,September,JAWA BARAT,Husein Sastranegara,Udara,13971
+2017,September,DI YOGYAKARTA,Adi Sucipto,Udara,13834
+2017,September,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,10032
+2017,September,SULAWESI UTARA,Sam Ratulangi,Udara,6335
+2017,September,SUMATERA BARAT,Minangkabau,Udara,4397
+2017,September,RIAU,Sultan Syarif Kasim II,Udara,3066
+2017,September,ACEH,Sultan Iskandar Muda,Udara,2559
+2017,September,JAWA TENGAH,Ahmad Yani,Udara,2088
+2017,September,KALIMANTAN BARAT,Supadio,Udara,2104
+2017,September,SULAWESI SELATAN,Hasanuddin,Udara,1604
+2017,September,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1256
+2017,September,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,1901
+2017,September,KEP. RIAU,Batam,Laut,122835
+2017,September,KEP. RIAU,Tanjung Uban,Laut,31422
+2017,September,KEP. RIAU,Tanjung Pinang,Laut,10811
+2017,September,KEP. RIAU,Tanjung Balai Karimun,Laut,7093
+2017,September,BALI,Tanjung Benoa,Laut,187
+2017,September,JAWA TENGAH,Tanjung Mas,Laut,3941
+2017,September,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,53446
+2017,September,PAPUA,Jayapura,Darat,9981
+2017,September,NUSA TENGGARA TIMUR,Atambua,Darat,6455
+2017,September,KALIMANTAN BARAT,Entikong,Darat,2042
+2017,September,KALIMANTAN BARAT,Aruk,Darat,802
+2017,September,KALIMANTAN BARAT,Nanga Badau,Darat,673
+2017,September,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,116701
+2017,Oktober,BALI,Ngurah Rai,Udara,464703
+2017,Oktober,DKI JAKARTA,Soekarno-Hatta,Udara,232014
+2017,Oktober,JAWA TIMUR,Juanda,Udara,20439
+2017,Oktober,SUMATERA UTARA,Kualanamu,Udara,20738
+2017,Oktober,JAWA BARAT,Husein Sastranegara,Udara,14002
+2017,Oktober,DI YOGYAKARTA,Adi Sucipto,Udara,13535
+2017,Oktober,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,10070
+2017,Oktober,SULAWESI UTARA,Sam Ratulangi,Udara,7714
+2017,Oktober,SUMATERA BARAT,Minangkabau,Udara,4885
+2017,Oktober,RIAU,Sultan Syarif Kasim II,Udara,3026
+2017,Oktober,ACEH,Sultan Iskandar Muda,Udara,2763
+2017,Oktober,JAWA TENGAH,Ahmad Yani,Udara,2079
+2017,Oktober,KALIMANTAN BARAT,Supadio,Udara,1979
+2017,Oktober,SULAWESI SELATAN,Hasanuddin,Udara,1448
+2017,Oktober,SUMATERA SELATAN,Sultan Badaruddin II,Udara,977
+2017,Oktober,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2107
+2017,Oktober,KEP. RIAU,Batam,Laut,117589
+2017,Oktober,KEP. RIAU,Tanjung Uban,Laut,32389
+2017,Oktober,KEP. RIAU,Tanjung Pinang,Laut,10619
+2017,Oktober,KEP. RIAU,Tanjung Balai Karimun,Laut,6368
+2017,Oktober,BALI,Tanjung Benoa,Laut,2815
+2017,Oktober,JAWA TENGAH,Tanjung Mas,Laut,1791
+2017,Oktober,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,50700
+2017,Oktober,PAPUA,Jayapura,Darat,10359
+2017,Oktober,NUSA TENGGARA TIMUR,Atambua,Darat,6167
+2017,Oktober,KALIMANTAN BARAT,Entikong,Darat,1095
+2017,Oktober,KALIMANTAN BARAT,Aruk,Darat,870
+2017,Oktober,KALIMANTAN BARAT,Nanga Badau,Darat,760
+2017,Oktober,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,117564
+2017,November,BALI,Ngurah Rai,Udara,360043
+2017,November,DKI JAKARTA,Soekarno-Hatta,Udara,231183
+2017,November,JAWA TIMUR,Juanda,Udara,24360
+2017,November,SUMATERA UTARA,Kualanamu,Udara,23356
+2017,November,JAWA BARAT,Husein Sastranegara,Udara,15387
+2017,November,DI YOGYAKARTA,Adi Sucipto,Udara,11781
+2017,November,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,7704
+2017,November,SULAWESI UTARA,Sam Ratulangi,Udara,6493
+2017,November,SUMATERA BARAT,Minangkabau,Udara,4682
+2017,November,RIAU,Sultan Syarif Kasim II,Udara,3225
+2017,November,ACEH,Sultan Iskandar Muda,Udara,2905
+2017,November,JAWA TENGAH,Ahmad Yani,Udara,2361
+2017,November,KALIMANTAN BARAT,Supadio,Udara,2263
+2017,November,SULAWESI SELATAN,Hasanuddin,Udara,1538
+2017,November,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1266
+2017,November,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2760
+2017,November,KEP. RIAU,Batam,Laut,124833
+2017,November,KEP. RIAU,Tanjung Uban,Laut,30822
+2017,November,KEP. RIAU,Tanjung Pinang,Laut,10538
+2017,November,KEP. RIAU,Tanjung Balai Karimun,Laut,6969
+2017,November,BALI,Tanjung Benoa,Laut,2847
+2017,November,JAWA TENGAH,Tanjung Mas,Laut,4376
+2017,November,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,49685
+2017,November,PAPUA,Jayapura,Darat,13651
+2017,November,NUSA TENGGARA TIMUR,Atambua,Darat,5976
+2017,November,KALIMANTAN BARAT,Entikong,Darat,1092
+2017,November,KALIMANTAN BARAT,Aruk,Darat,809
+2017,November,KALIMANTAN BARAT,Nanga Badau,Darat,704
+2017,November,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,108421
+2017,Desember,BALI,Ngurah Rai,Udara,309440
+2017,Desember,DKI JAKARTA,Soekarno-Hatta,Udara,230483
+2017,Desember,JAWA TIMUR,Juanda,Udara,23208
+2017,Desember,SUMATERA UTARA,Kualanamu,Udara,26015
+2017,Desember,JAWA BARAT,Husein Sastranegara,Udara,17958
+2017,Desember,DI YOGYAKARTA,Adi Sucipto,Udara,14203
+2017,Desember,NUSA TENGGARA BARAT,Bandara Int Lombok,Udara,7236
+2017,Desember,SULAWESI UTARA,Sam Ratulangi,Udara,8616
+2017,Desember,SUMATERA BARAT,Minangkabau,Udara,8630
+2017,Desember,RIAU,Sultan Syarif Kasim II,Udara,3224
+2017,Desember,ACEH,Sultan Iskandar Muda,Udara,3698
+2017,Desember,JAWA TENGAH,Ahmad Yani,Udara,2354
+2017,Desember,KALIMANTAN BARAT,Supadio,Udara,2652
+2017,Desember,SULAWESI SELATAN,Hasanuddin,Udara,1715
+2017,Desember,SUMATERA SELATAN,Sultan Badaruddin II,Udara,1580
+2017,Desember,PROVINSI LAINNYA,Pintu Udara Lainnya,Udara,2347
+2017,Desember,KEP. RIAU,Batam,Laut,197347
+2017,Desember,KEP. RIAU,Tanjung Uban,Laut,44783
+2017,Desember,KEP. RIAU,Tanjung Pinang,Laut,14421
+2017,Desember,KEP. RIAU,Tanjung Balai Karimun,Laut,9900
+2017,Desember,BALI,Tanjung Benoa,Laut,790
+2017,Desember,JAWA TENGAH,Tanjung Mas,Laut,1461
+2017,Desember,PROVINSI LAINNYA,Pintu Laut Lainnya,Laut,55922
+2017,Desember,PAPUA,Jayapura,Darat,16246
+2017,Desember,NUSA TENGGARA TIMUR,Atambua,Darat,7081
+2017,Desember,KALIMANTAN BARAT,Entikong,Darat,2818
+2017,Desember,KALIMANTAN BARAT,Aruk,Darat,1919
+2017,Desember,KALIMANTAN BARAT,Nanga Badau,Darat,1199
+2017,Desember,PROVINSI LAINNYA,Pintu Darat Lainnya,Darat,129785
