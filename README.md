@@ -21,7 +21,8 @@ Dalam kondisi pemulihan pasca covid-19, sektor pariwisata dipastikan mengalami d
 6. Bagaimana **persebaran objek daya tarik wisata dan jenis pengembangan pariwisata** di berbagai provinsi Indonesia, serta bagaimana **potensi sektor pariwisata** di masing-masing daerah?
 
 ### D. Langkah-langkah Analisis
-Foto
+![image](https://github.com/bintangpradanaa/capstone-project-pariwisata/assets/114275130/18de802c-c2cb-4804-87d5-59b67aa6de10)
+
    
 ### E. Cara Mengakses Dashboard
 Untuk mengakses dashboard yang dikembangkan menggunakan Streamlit, ikuti langkah-langkah berikut:
