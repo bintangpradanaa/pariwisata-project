@@ -226,7 +226,7 @@ with pariwisata_eco:
     eco_combo_chart = alt.layer(devisa_bar, pdb_line).resolve_scale(y='independent')
     st.altair_chart(eco_combo_chart, use_container_width=True)
     st.markdown(""" <div style="position: absolute; top: -40px; right: 20px; color: #808080; font-size: 13px;">
-            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparekraf</a>)</div>""", unsafe_allow_html=True)
+            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparakraf</a>)</div>""", unsafe_allow_html=True)
     
 with isi_eco:
     capaian_devisa_2023_col, capaian_devisa_2024_col = st.columns(2)
@@ -243,7 +243,7 @@ with isi_eco:
             2,07 - 5,95 miliar USD. Ternyata, devisa yang berhasil dihasilkan jauh melampaui target yang ditetapkan, bahkan mencapai 
             lebih dari dua kali lipat dari yang diharapkan.</p>''', unsafe_allow_html=True)
     st.markdown('''<div style="border: 1px solid; padding: 10px; border-radius: 5px; font-size:14px; text-align:justify; padding:15px; font-style:italic;">
-            Di tahun 2024, Kemenparekraf menetapkan target baru devisa minimum sebesar 7.38 miliar USD. Langkah ini mencerminkan optimisme dan 
+            Di tahun 2024, Kemenparekraf menetapkan target baru devisa minimum sebesar 7.38 juta USD. Langkah ini mencerminkan optimisme dan 
             keyakinan akan potensi pertumbuhan lebih lanjut dalam industri pariwisata Indonesia.</div>''', unsafe_allow_html=True)
     
 st.write('''<p style = "font-size:15px; text-align:justify;">
@@ -339,7 +339,7 @@ with wisman_pernegara:
 
     top5_wisman_negara = filtered_data.groupby('negara')['jumlah_kunjungan_wisman'].sum().nlargest(5).reset_index()
     st.markdown('''<p style = "font-size:15px; text-align:center; top:50px;font-weight:bold;">
-                Grafik 3. Top 5 Negara Asal Wisman Terbanyak</p>''', unsafe_allow_html=True)
+                Grafik 2. Jumlah Kunjungan Wisman per Tahun </p>''', unsafe_allow_html=True)
     fig_bar_negara = px.bar(top5_wisman_negara, 
                             x='jumlah_kunjungan_wisman', 
                             y='negara', 
@@ -573,7 +573,7 @@ with wisnus_prov_perbulan:
     grouped_data = filtered_data.groupby('bulan')['jumlah_kunjungan_wisnus'].sum().reset_index()
     
     st.markdown('''<p style = "font-size:15px; text-align:center;font-weight:bold;">
-                Grafik 8. Tren Jumlah Kunjungan Wisnus per Bulan </p>''', unsafe_allow_html=True)  
+                Grafik 7. Grafik 8. Tren Jumlah Kunjungan Wisnus per Bulan </p>''', unsafe_allow_html=True)  
     fig_line_wisnus_prov = px.line(grouped_data,
                                    x='bulan',
                                    y='jumlah_kunjungan_wisnus',
@@ -864,7 +864,7 @@ st.markdown('<h5 style="text-align: center;">Peta Sebaran Jenis dan Objek Daya T
 # show the map
 st_map = st_folium(map, width=700, height=480, use_container_width=True)
 st.markdown(""" <div style="position: absolute; top: -40px; right: 0; color: #808080; font-size: 13px;">
-            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparekraf</a>)</div>""", unsafe_allow_html=True)
+            (Sumber: <a href="https://satudata.kemenparekraf.go.id/" style="text-decoration:none;">Satu Data Kemenparakraf</a>)</div>""", unsafe_allow_html=True)
     
 
 st.write('''<p style="font-size:15px; text-align:justify;">
